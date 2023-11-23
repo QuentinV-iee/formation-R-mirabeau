@@ -1,0 +1,501 @@
+ID,Age,Sex,IQ,Height,Died,start_date,Scoring,Smoker,Grade_1,Grade_2,Grade_3,Item_1,Item_2,Item_3,Item_4,Sentence,Language_1,Language_2,State
+00001,23,Female,113,72,TRUE,2007-04-23,-0.8707970450113975,FALSE,86.5,93.8,92.5,3,3,1,5,I will stand with Israel if they are attacked.,Sylheti,Ilokano,California
+00002,24,Male,102,74,FALSE,2008-10-24,-1.7966029968601707,FALSE,84.4,85.9,85.3,1,1,1,3,They're willing to work with us.,Punjabi,Gujarati,Michigan
+00003,25,Male,113,68,TRUE,2009-04-05,0.6793120996851513,FALSE,85.1,86.4,85.2,3,2,4,5,We we had to go into Pakistan.,German,English,California
+00004,26,Male,100,66,FALSE,2010-12-28,-1.8143427940397974,TRUE,88.7,93.8,84.6,5,4,2,4,That's not the kind of advocacy that women need.,Cantonese,Spanish,Massachusetts
+00005,29,Female,107,68,FALSE,2011-04-29,-0.7598406003971424,FALSE,89.7,94.4,88.9,2,2,3,3,We've opened up public lands.,Portuguese,Haitian Creole,Ohio
+00006,20,Female,104,64,FALSE,2010-08-06,1.496408105741163,FALSE,86.5,86.5,86.8,3,2,4,2,"We're a nation that believes in the Second Amendment, and I believe in the Second Amendment.",Mossi,Spanish,Arizona
+00007,21,Male,92,74,TRUE,2011-12-15,-1.0519842191540365,TRUE,89.7,88.3,87.9,4,1,3,2,Nothing could be further from the truth.,Somali,Polish,Oregon
+00008,31,Male,82,68,FALSE,2007-08-09,-1.2254743523849425,FALSE,90.9,91.8,84.6,4,5,2,1,And that's because we've become weaker in each of those four|,Sylheti,English,New York
+00009,22,Female,108,65,FALSE,2008-03-09,-0.897967319459697,FALSE,89.6,85,80.3,3,4,2,1,the choice in this election is going to be whose promises are going to be more likely to help you in your life?,English,Quechua,North Carolina
+00010,22,Male,85,69,TRUE,2008-10-19,-0.437520805624841,TRUE,91.7,91.1,95.8,2,1,4,3,"We we have, with our partners in the region, we have sufficient resources to support those groups.",Mossi,Polish,Massachusetts
+00011,31,Female,89,74,TRUE,2010-06-13,0.24142397115722253,FALSE,88.6,86.3,86.2,1,2,1,2,But what I've also said is we can't just produce traditional source of energy.,Swahili,English,Nevada
+00012,32,Female,110,67,TRUE,2010-02-19,0.8538657083680756,FALSE,84.5,83.3,89.4,3,3,1,1,"I met a young woman in in Philadelphia who's coming out of out of college, can't find work.",Hindi,Spanish,Arizona
+00013,25,Female,93,73,FALSE,2011-01-25,0.26778477319252997,FALSE,92.5,84,91.1,2,5,3,2,"Now with respect to what we've done with China already, U.",Bengali,Wu,Tennessee
+00014,26,Female,111,73,FALSE,2008-11-23,0.24677848396789331,FALSE,82.8,89.9,89.6,3,3,3,3,"And Governor, let's before we get into a|",Hakka,Spanish,Georgia
+00015,25,Female,109,64,FALSE,2009-07-03,-0.8472768485522748,FALSE,87.4,83.5,88.5,1,3,4,5,"People around the world with accredited degrees in science and math get a green card stapled to their diploma, come to the U.",Belarusian,Arabic,Ohio
+00016,26,Male,90,69,TRUE,2010-05-03,1.162558251986463,TRUE,77.4,89.9,89.6,2,5,2,3,"Now, what he says is he's going to make sure that this doesn't add to the deficit and he's going to cut middleclass taxes.",Marathi,Min Dong,Michigan
+00017,28,Female,111,67,FALSE,2011-02-25,-0.835936660944462,TRUE,89.6,89.5,87.4,2,5,4,2,And this calls into question the president's whole policy in the Middle East.,Polish,Xhosa,Pennsylvania
+00018,20,Male,113,62,TRUE,2009-09-01,0.7063492584946195,TRUE,87.3,82,90.2,3,5,5,1,What you just heard Governor Romney said is he doesn't have different ideas.,Ilokano,Awadhi,Washington
+00019,26,Male,112,69,TRUE,2010-07-04,0.5028648288728238,FALSE,93.2,86.7,80.4,3,2,3,5,"He was right, but then he put in place deficits twice that size for every one of his four years.",Ukrainian,Kannada,Kentucky
+00020,33,Female,112,70,TRUE,2011-12-14,0.0936791330883835,FALSE,88.8,90,92.9,5,5,1,1,They would have gone through a|,Kinyarwanda,Uyghur,Ohio
+00021,21,Female,106,67,FALSE,2008-01-09,1.0292319372810819,TRUE,85.6,91.5,93.9,4,2,2,5,I want to make sure we keep our Pell grant program growing.,Min Bei,Kinyarwanda,Georgia
+00022,28,Female,89,66,TRUE,2007-11-10,-0.06128434871802215,FALSE,92.3,87.4,83.5,1,2,2,1,Let's let him respond let's let him respond to this specific on Dodd Frank and what the governor just said.,Kannada,Marathi,Florida
+00023,33,Male,89,65,FALSE,2011-03-30,-1.1990869437955176,TRUE,88.9,81.5,84.9,2,3,4,4,He can't tell you.,Belarusian,Vietnamese,Texas
+00024,24,Female,81,76,FALSE,2007-04-20,1.088558029404732,FALSE,83.4,88.4,87.2,3,1,3,2,What caused it?,Hindi,Arabic,North Carolina
+00025,32,Female,91,70,FALSE,2009-11-24,0.2608678029502623,TRUE,83.9,86.1,89.1,4,1,4,1,"We take program after program that we don't absolutely have to have, and we get rid of them.",Uyghur,Italian,California
+00026,23,Male,109,73,FALSE,2010-05-19,0.07010034972175279,TRUE,85.7,81.5,92.4,5,1,2,2,I want to make sure our take home pay turns around and starts to grow.,Portuguese,Vietnamese,Rhode Island
+00027,32,Male,112,69,TRUE,2007-10-18,-1.7754778638858195,TRUE,90.3,92.3,91.1,2,2,2,2,"I mean, the president received a letter from thirty eight Democrat senators saying the tensions with Israel were a real problem.",English,Awadhi,New Jersey
+00028,30,Male,101,69,FALSE,2012-02-27,-0.3844691459329246,TRUE,79,89.5,88,3,1,2,2,It holds down the prices of their goods.,Quechua,Hakka,New York
+00029,21,Female,122,66,TRUE,2012-08-17,-0.519791840136377,TRUE,84.7,90.5,84.5,3,4,4,3,They're getting hurt.,Ilokano,Sylheti,Missouri
+00030,26,Female,95,71,FALSE,2011-12-05,0.6636666004255687,FALSE,88,91,86.2,1,4,1,3,They have to abide by their treaty with Israel.,Portuguese,Malayalam,Florida
+00031,26,Male,102,65,FALSE,2010-01-04,-0.23284554464843601,TRUE,85.8,82.5,85,2,1,4,5,Production is up.,Min Dong,German,California
+00032,23,Male,92,71,TRUE,2012-04-25,-1.511453253283386,TRUE,85.3,79.9,91.3,3,4,2,3,And so the question now is how do we build on those strengths.,German,Hmong,Florida
+00033,23,Male,87,74,TRUE,2010-04-13,0.32999912964993,FALSE,87.9,89.1,79.6,4,3,4,5,Absolutely not.,Arabic,Portuguese,Texas
+00034,34,Male,110,72,FALSE,2012-08-31,0.9506789715445427,TRUE,90.6,89.3,97.8,4,2,3,1,You're absolutely right.,Dhundhari,English,Pennsylvania
+00035,25,Female,107,72,FALSE,2009-04-18,0.3894700835087592,FALSE,90.7,88.8,85.9,2,5,3,3,You want it repealed.,Quechua,Tamil,North Carolina
+00036,34,Female,111,71,FALSE,2009-08-22,-0.9904753306636669,TRUE,89.6,85.4,93.3,1,3,4,1,"Now, I want to build on that.",Burmese,Ilokano,New York
+00037,24,Male,92,69,FALSE,2012-07-17,0.2642623524340675,TRUE,85.3,83.4,87.2,5,3,2,3,"His main strategy during the Republican primary was to say, We're going to encourage self deportation.",Ilokano,Arabic,Michigan
+00038,33,Female,94,72,TRUE,2011-04-18,0.8639325914775271,TRUE,89.2,92.9,80.2,2,5,2,2,"But I believe we want to make sure that we have the relationships of friendship with the people that take his place, steps that in the years to come we see Syria as a as a friend, and Syria as a responsible party in the Middle East.",English,Portuguese,Illinois
+00039,22,Female,97,67,FALSE,2007-10-22,1.0265060258235827,TRUE,96,92.7,85.4,2,1,4,3,"If we don't have the best education system in the world, if we don't continue to put money into research and technology that will allow us to create great businesses here in the United States, that's how we lose the competition.",Spanish,French,Massachusetts
+00040,20,Male,108,67,TRUE,2008-09-10,0.9433665921119616,FALSE,95.1,85.7,86.9,2,3,5,3,"And everybody's getting a fair share everybody's doing a fair share, and everybody's playing by the same rules.",Xhosa,Hausa,California
+00041,26,Male,116,62,FALSE,2011-05-15,-0.9369557515685766,TRUE,85.3,94,86.9,3,3,1,1,"I'm glad you thought I was a standard bearer four years ago, but I wasn't.",English,Portuguese,New Hampshire
+00042,24,Male,120,72,FALSE,2008-12-10,1.1195941135570249,FALSE,80.3,88.9,85.2,3,1,3,4,"But if you calculated that unemployment rate, taking back the people who dropped out of the workforce, it would be ten.",Oriya,Swedish,Illinois
+00043,25,Female,99,75,FALSE,2008-08-29,-0.7759442448695256,TRUE,75.8,90.7,88.9,4,3,2,3,Ones that can support a family.,Persian,Chewa,Texas
+00044,21,Female,99,67,FALSE,2011-03-17,-0.0331275031167199,TRUE,95.2,89.1,95.9,3,4,1,5,"So for those reasons, for the tax, for Medicare, for this board, and for people losing their insurance, this is why the American people don't want Medicare don't want Obamacare.",English,Tagalog,Kansas
+00045,30,Female,113,65,TRUE,2009-08-09,0.32968451287511374,FALSE,92.7,83,87.5,3,5,2,5,"What if what if the prime minister of Israel called you on the phone and said, Our bombers are on the way.",Malayalam,Hindi,Arizona
+00046,29,Male,105,72,FALSE,2009-05-09,0.5696618792543852,FALSE,92.9,89.6,94.3,4,2,2,2,"Number three, gender equality.",Konkani,Kirundi,New Jersey
+00047,29,Female,97,71,TRUE,2012-01-08,-1.3118516986134725,TRUE,87.8,85,89.7,1,2,2,2,"It wasn't just that this was the biggest driver of our federal deficit, our overall health care costs, but it was families who were worried about going bankrupt if they got sick, millions of families, all across the country.",Russian,Portuguese,Illinois
+00048,29,Male,99,65,TRUE,2009-06-29,0.06319153646256395,TRUE,94.5,90.6,87.5,1,5,3,1,That's that's a big topic.,Uyghur,Konkani,Texas
+00049,29,Male,104,66,TRUE,2012-01-06,0.07011786114240393,FALSE,92.5,91,87.5,4,3,4,4,"We are here for the second presidential debate, a town hall, sponsored by the Commission on Presidential Debates.",English,English,Florida
+00050,26,Male,107,66,FALSE,2008-02-12,-1.6057713898849535,FALSE,85.9,92.1,85.4,3,4,5,2,"What we've said is to states, we'll give you more money if you initiate refor Miss And as a consequence, you had forty six states around the country who have made a real difference.",English,Portuguese,South Carolina
+00051,32,Female,101,67,FALSE,2011-01-27,-0.27545283423663997,TRUE,81.1,89.3,91.8,5,4,5,4,Production is up.,Hmong,Uzbek,Texas
+00052,30,Female,104,73,FALSE,2009-08-09,1.0284302958158607,TRUE,93.9,88,85.9,1,4,1,2,I would indict him for it.,Spanish,Hmong,Nebraska
+00053,33,Female,107,67,FALSE,2009-10-18,0.7273599000392508,TRUE,85.9,89.4,86.4,5,4,2,5,The federal government can get local and and state schools to do a better job.,Korean,Quechua,Indiana
+00054,22,Female,103,73,TRUE,2009-03-22,-0.577589717665458,FALSE,87.7,87.4,90.5,3,3,5,2,"If somebody came to you, Governor, with a plan that said, here, I want to spend dollar seven or dollar eight trillion, and then we're going to pay for it, but we can't tell you until maybe after the election how we're going to do it, you wouldn't take such a sketchy deal and neither should you, the American people, because the math doesn't add up.",Swedish,Spanish,California
+00055,28,Female,122,74,FALSE,2007-07-28,-1.591692608816539,TRUE,89,90.4,82.8,2,5,3,1,S.,Telugu,Korean,Ohio
+00056,27,Female,101,68,FALSE,2011-04-11,-1.1456734532444088,FALSE,82.5,93.7,92.9,4,5,2,4,But I want to I want to move you on and also|,Xhosa,English,California
+00057,25,Male,97,68,TRUE,2011-02-21,0.14767705761984348,FALSE,84.8,88.7,92.3,5,4,4,5,S.,Uyghur,Mossi,Iowa
+00058,31,Male,117,66,TRUE,2012-01-24,0.9780694156889074,TRUE,93.2,90.3,88,5,4,2,2,"And kids across this country are going to recognize, we're bringing back an economy.",Hindi,Marathi,Maryland
+00059,30,Female,92,61,TRUE,2011-06-29,-0.23167526234403835,TRUE,93.6,83,86.4,2,1,1,3,I want it to be clearer.,Ukrainian,Maithili,Maryland
+00060,30,Female,92,70,FALSE,2008-05-31,-1.1052507683505677,TRUE,88.9,88.7,82.3,1,5,2,1,"And what I now want to do is to hire more teachers, especially in math and science, because we know that we've fallen behind when it comes to math and science.",Hakka,Chhattisgarhi,California
+00061,32,Male,102,74,FALSE,2007-09-30,-1.0277393286781553,TRUE,76.6,79.2,82.2,4,5,3,5,"First of all, I'm going through from the very beginning we're going to cut about five percent of the discretionary budget, excluding military.",Xhosa,Korean,Michigan
+00062,29,Female,103,65,TRUE,2007-09-04,0.07247823926321104,FALSE,93,79.1,86.3,2,2,1,1,That's not the way we're going to create jobs here.,Haitian Creole,Sundanese,Missouri
+00063,33,Female,98,64,FALSE,2012-03-25,1.8422586775978163,FALSE,83.1,86.7,96.9,1,3,2,3,"And if we had asked Pakistan permission, we would not have gotten him.",French,Hindi,Washington
+00064,30,Female,107,73,FALSE,2011-09-03,-0.8713508190144676,FALSE,81,88.8,81.3,1,5,2,3,And so what I want is a is a comprehensive strategy.,Sylheti,Haitian Creole,Ohio
+00065,26,Male,96,70,FALSE,2012-05-29,-1.0767046203493758,TRUE,81.4,82.3,92.4,1,5,1,4,"We didn't also do something that I think a number of people across this country recognize, which is put put people in a position where they're going to lose the insurance they had and they wanted.",Ukrainian,Jin,Connecticut
+00066,28,Female,109,69,TRUE,2010-12-02,-0.18879004722836443,FALSE,86,89.9,91.6,5,2,4,4,"What is the deal that you would accept, Mister President?",Kannada,Arabic,Florida
+00067,28,Male,104,72,TRUE,2012-04-27,-0.02119113837884076,TRUE,84.9,88,84.9,4,5,4,2,And we have stood on the side of democracy.,Russian,Hindi,California
+00068,21,Female,112,71,FALSE,2009-10-16,-1.1020515688493788,TRUE,85.9,93.4,86,4,4,2,3,"I want to ask you something, Mister President, and then have the governor just quickly.",Haitian Creole,Zulu,California
+00069,20,Female,105,71,FALSE,2010-06-26,0.7548608855578289,TRUE,88.3,85.1,93.3,5,5,1,3,"You know when members of the Republican Congress say, We're going to sign a no tax pledge, so that we don't ask a dime for millionaires and billionaires to reduce our deficit so we can still invest in education, and helping kids go to college.",Min Dong,Sylheti,Washington
+00070,20,Female,107,67,TRUE,2008-04-28,1.3590382524128826,TRUE,91.3,88.2,93.4,4,5,2,3,"We've been there a long time, and we've got to make sure that we and our coalition partners are pulling out responsibly and giving Afghans the capabilities that they need.",Kirundi,Kurdish,Kentucky
+00071,27,Male,85,69,TRUE,2011-05-27,0.06282236837280993,FALSE,89.2,84.9,87,5,4,2,2,Think of this as their country.,Min Nan,Spanish,Kentucky
+00072,27,Male,101,66,FALSE,2007-10-23,-0.16203820746882736,TRUE,88.4,85.9,91.1,5,1,2,3,There's a fundamentally different vision about how we move our country forward.,Hmong,Arabic,Pennsylvania
+00073,23,Female,123,70,FALSE,2012-06-12,-0.9398704678586766,TRUE,86.7,81.3,90,4,1,1,5,"We are mobilizing humanitarian support, and support for the opposition.",Javanese,Haitian Creole,Georgia
+00074,27,Male,98,72,FALSE,2010-02-13,0.06620454207746926,FALSE,87.2,87.5,81.4,4,1,3,1,Our association and connection with our allies is essential to America's strength.,Xhosa,English,California
+00075,23,Male,100,68,TRUE,2009-05-03,-2.2273891211739976,TRUE,89.7,85.7,86.5,3,2,4,2,because the private sector's not going to invest in a|,Hmong,Igbo,California
+00076,26,Male,94,68,TRUE,2008-05-05,-1.620858865718994,TRUE,87.9,87.6,90.7,1,1,3,3,"And with respect to this pipeline that Governor Romney keeps on talking about, we've we've built enough pipeline to wrap around the entire earth once.",Arabic,Portuguese,Alabama
+00077,24,Male,89,71,FALSE,2007-04-16,-0.5903617070521383,TRUE,89.9,91.1,90.1,3,1,5,1,is completely|,Punjabi,Tagalog,Nevada
+00078,20,Male,89,73,FALSE,2010-09-17,-0.15031715259722497,FALSE,87.2,95.5,84.8,3,4,4,1,Mister President?,Shona,Thai,Indiana
+00079,20,Male,95,71,FALSE,2010-02-26,0.3644420539819641,FALSE,85.8,88.6,87.6,2,5,5,3,I'm sorry that's a|,Arabic,Javanese,Florida
+00080,20,Female,80,71,FALSE,2010-04-21,-1.2167934693295686,TRUE,86.1,86.9,82.5,2,3,4,5,And this is an example of where our priorities make a difference.,Spanish,Javanese,Texas
+00081,23,Female,91,73,TRUE,2009-12-16,-1.0603149043207074,FALSE,90.7,85.3,83.5,5,2,2,3,"Number two, if you don't have health insurance, we're essentially setting up a group plan that allows you to benefit from group rates that are typically eighteen percent lower than if you're out there trying to get insurance on the individual market.",Shona,Min Nan,Pennsylvania
+00082,34,Female,107,68,TRUE,2011-06-23,0.8053417216761255,FALSE,86.9,86.6,89,1,1,5,1,You're seeing it right now in the economy.,Quechua,Saraiki,Ohio
+00083,23,Male,95,70,TRUE,2012-08-16,-0.591235912584095,TRUE,85.9,98.7,95.8,1,2,5,5,"Mister President, we have a really short time for a quick discussion here.",Dhundhari,Burmese,North Carolina
+00084,26,Female,91,72,TRUE,2011-01-27,0.3858752816111037,TRUE,89,95.1,84.8,4,5,1,1,We don't have to settle for unemployment at a chronically high level.,Mossi,Punjabi,Nevada
+00085,31,Female,98,70,TRUE,2012-08-03,2.587830405798945,FALSE,89.6,86.9,82.1,1,1,2,5,You don't want to cut defense spending.,French,Somali,Iowa
+00086,22,Male,95,72,FALSE,2012-08-25,-0.5177031198644887,FALSE,92.2,91.3,87.9,4,4,3,2,"And the answer they came up with was this: One, more economic development.",Arabic,Swedish,California
+00087,28,Male,117,61,TRUE,2008-10-06,0.8369395419226768,TRUE,87,81,91.8,5,5,3,2,Can we can the two of you agree that the voters have a choice a clear choice between the two|,Russian,Zulu,California
+00088,28,Male,93,61,FALSE,2008-01-26,0.8663873734923792,FALSE,90.7,92.6,92.6,4,1,4,2,We organized the Friends of Syria.,Dutch,Hmong,California
+00089,25,Male,100,72,TRUE,2007-11-24,0.42300502403794765,FALSE,89.6,86.1,89.5,2,3,2,1,You took Chrysler bankrupt.,Igbo,Malay/Indonesian,Ohio
+00090,29,Male,106,68,TRUE,2009-11-02,0.5002210202289721,TRUE,93,92.3,93.3,1,1,1,2,"Syria Syria's not just a tragedy of thirty thousand civilians being killed by a military, but also a strategic strategically significant player for America.",Kannada,Arabic,Ohio
+00091,28,Male,96,63,FALSE,2010-11-27,-0.015300331041550435,FALSE,82.1,77.3,87,4,4,3,5,"The notion that we would have tanks run over those young people who were in Tahrir Square, that is not the kind of American leadership that John F.",Javanese,Burmese,Texas
+00092,31,Male,104,66,TRUE,2008-05-03,-1.0887659759581032,TRUE,87.2,86.6,83,1,3,1,4,What you just heard Governor Romney said is he doesn't have different ideas.,Spanish,Marathi,Texas
+00093,24,Male,87,67,TRUE,2010-08-11,-0.4286683157138564,TRUE,84.4,88.7,92.9,3,1,4,5,"In the last four years, you cut permits and licenses on federal land and federal waters in half.",Arabic,Italian,Illinois
+00094,24,Female,98,71,TRUE,2010-02-23,0.11434553582191616,FALSE,83.6,84.4,83.9,3,5,5,1,"I I was I was someone who ran businesses for twenty five years, and balanced the budget.",Bengali,Korean,Idaho
+00095,20,Female,84,68,FALSE,2008-09-05,0.19314529474820885,FALSE,91.6,90.4,87.8,2,2,4,1,We've seen progress and gains in schools that were having a terrible time.,Xhosa,Spanish,Oregon
+00096,27,Female,112,64,TRUE,2008-01-31,1.2191107902414025,FALSE,82.1,84.9,87.8,5,1,5,2,"And we're going to make sure that if they do not meet the demands of the international community, then we are going to take all options necessary to make sure they don't have a nuclear weapon.",English,Gujarati,Tennessee
+00097,20,Male,99,73,TRUE,2012-07-20,0.4928281570040676,FALSE,90.4,89.1,86.4,2,2,3,5,"It just reminds me of, you know, he says that he's going to close deductions and loopholes for his tax plan.",Haitian Creole,Hindi,Ohio
+00098,21,Male,93,67,TRUE,2011-01-04,-1.4936054859229426,FALSE,86.1,91.9,95.1,4,5,1,3,"Thank you, Mister President.",German,Azerbaijani,New Jersey
+00099,28,Female,106,68,FALSE,2011-01-25,-0.3883824871516847,FALSE,87.4,87.8,87.2,5,5,3,2,"In some places, yes.",Portuguese,Quechua,Virginia
+00100,21,Male,107,66,TRUE,2008-10-01,-0.5518544288941993,FALSE,92.7,86.3,87.3,5,5,5,5,And we want to get a question from Phillip Tricolla.,Sylheti,Hindi,Arizona
+00101,31,Male,115,62,TRUE,2011-12-13,0.810582987430349,FALSE,91,91.4,91.4,5,4,1,3,I was in coal country.,Awadhi,Mossi,Alabama
+00102,29,Male,110,64,TRUE,2008-05-21,2.3281060526303965,TRUE,90.2,84.4,84.5,4,1,4,3,Nothing could be further from the truth.,Russian,Cebuano,Minnesota
+00103,20,Female,92,61,TRUE,2010-08-05,-1.8170971311638624,TRUE,91.2,91.9,82.6,4,2,2,1,"And what's happened over the last four years has been very, very hard for America's young people.",Tamil,Bengali,Texas
+00104,27,Female,106,72,FALSE,2011-09-22,0.3022333494742188,FALSE,93.7,93.7,88.8,1,4,1,4,"Number two, we're going to have to stop illegal immigration.",Hungarian,Czech,Texas
+00105,34,Female,104,75,TRUE,2009-08-21,-2.386699850224719,FALSE,87.7,87.9,92.9,2,5,2,1,We then started to build up Afghan forces.,Portuguese,Kurdish,New Mexico
+00106,29,Female,106,76,TRUE,2008-08-20,-0.7946030264764337,TRUE,89.2,87.7,89.7,1,3,5,3,"That's why on day one, i will label them a currency manipulator, which allows us to apply tariffs where they're taking jobs.",Bengali,Cantonese,California
+00107,28,Male,93,66,FALSE,2007-05-22,-0.23453359009163083,TRUE,87.3,90,83.4,1,5,1,5,"We see in in Libya, an attack apparently by, I think we know now, by terrorists of some kind against against our people there, four people dead.",Uyghur,Xhosa,Tennessee
+00108,25,Male,86,66,TRUE,2007-09-10,0.9857478157042837,TRUE,93,91.3,92.8,5,4,4,1,"Look, this, in my view, is the highest responsibility of the President of the United States, which is to maintain the safety of the American people.",Arabic,Kinyarwanda,Louisiana
+00109,35,Male,102,73,FALSE,2008-03-09,1.621605464137974,FALSE,87.4,89.2,94.4,5,5,4,2,"Since both you and President Bush are Republicans, I fear a return to the policies of those years should you win this election.",Javanese,Cebuano,Colorado
+00110,32,Female,99,73,FALSE,2008-07-21,0.27999816600140764,FALSE,88.3,86,84.5,5,2,1,5,They look at our our decision to to cut back on our military capabilities.,Gan,Kirundi,New Jersey
+00111,34,Male,82,67,TRUE,2011-08-10,1.4156694094123927,TRUE,80.2,89.4,87.9,5,4,1,3,"I know what it takes to get this to happen, and my plan will do that, and one part of it is to make sure that we keep China playing by the rules.",French,Javanese,Tennessee
+00112,32,Male,118,67,FALSE,2010-12-08,-0.03128811560627917,FALSE,85,91.1,86.4,2,1,5,1,The timekeepers are all working.,Pashto,Punjabi,Florida
+00113,29,Female,109,62,TRUE,2010-03-17,0.3942487847327597,TRUE,88.5,87.7,81.5,3,5,4,5,"in the follow up, it doesn't quite work like that.",Arabic,Hindi,Illinois
+00114,28,Male,83,67,FALSE,2009-08-30,0.8727148788938558,TRUE,86.8,92.5,85.2,5,5,2,4,But it does say insurance companies can't jerk you around.,Fula,Yoruba,Pennsylvania
+00115,24,Male,100,73,FALSE,2010-09-28,1.338127745155963,TRUE,80.5,83.2,85.1,3,4,1,4,"Secondly, Syria is an opportunity for us because Syria plays an important role in the Middle East, particularly right now.",Spanish,Kinyarwanda,Virginia
+00116,25,Female,88,66,TRUE,2007-05-27,0.4690710942550474,FALSE,89.8,91.4,94.3,1,2,2,5,"Now, let's move to health care where I know there is a clear difference, and that has to do with the Affordable Care Act, Obamacare.",Arabic,Zulu,Nevada
+00117,26,Male,97,65,TRUE,2009-11-25,2.138414214488758,TRUE,93.7,83.8,91,5,2,1,3,But that was ten years before you took office.,Russian,Russian,New York
+00118,29,Male,92,73,TRUE,2009-10-20,-0.554338220819097,TRUE,91.6,91.3,84.2,2,3,3,1,But I'll respond to a couple of things that you mentioned.,Polish,English,Illinois
+00119,25,Male,89,66,TRUE,2010-06-09,-1.0015487297504244,FALSE,88.1,88.7,79.5,5,3,3,1,Two thirds of our jobs come from small businesses.,Tamil,English,Michigan
+00120,22,Female,85,76,TRUE,2009-07-19,-1.1565901130363616,TRUE,87.9,88.8,92.6,4,5,3,2,"You were very clear that you would not provide, government assistance to the U.",Shona,Oriya,Illinois
+00121,20,Male,81,67,TRUE,2007-10-28,1.4120730448982008,FALSE,83.8,89.5,87.5,2,5,4,5,"All of these things suggested, I think, to the Iranian mullahs that, hey, you know, we can keep on pushing along here, we can keep talks going on, we're just going to keep on spinning centrifuges.",Pashto,Hindi,Pennsylvania
+00122,33,Female,84,68,FALSE,2007-10-23,0.9274060496454879,FALSE,91.6,94.4,92.2,5,1,4,2,It also means we're helping them and small businesses to export all around the world to new markets.,Uyghur,Telugu,Georgia
+00123,34,Male,91,71,FALSE,2011-12-19,0.5135759586136377,FALSE,90.9,94.3,90.9,1,1,1,2,"But I also believe that when he said behind closed doors that forty seven percent of the country considered themselves victims who refuse personal responsibility, think about who he was talking about.",Hakka,English,Georgia
+00124,22,Male,104,70,FALSE,2010-08-10,-0.63718952371692,TRUE,85.4,86.4,81,5,5,1,3,"And let's take the money that we've been spending on war over the last decade to rebuild America, roads, bridges schools.",Japanese,English,New York
+00125,26,Female,112,67,FALSE,2011-01-04,-0.008546565148728733,FALSE,86,89.9,82.6,2,2,4,4,"And then, of course, with regards to standing for our principles, when when the students took to the streets in Tehran and the people there protested, the Green Revolution occurred, for the president to be silent I thought was an enormous mistake.",Japanese,Kirundi,North Carolina
+00126,35,Female,119,65,TRUE,2009-05-10,-0.12869967232645846,FALSE,95.7,87,92,3,4,1,3,Under no circumstances would I do anything other than to help this industry get on its feet.,Xiang,Punjabi,California
+00127,24,Female,99,70,TRUE,2009-06-08,-0.7422103829187748,FALSE,93.4,91.7,80.9,3,2,5,1,Asking the wealthy to pay a little bit more along with cuts so that we can invest in education like yours.,Javanese,Kinyarwanda,Illinois
+00128,32,Female,95,68,TRUE,2010-03-24,-0.7467136089404435,FALSE,82.5,79.2,89.2,3,3,4,2,But we have some work to do.,German,Marathi,Indiana
+00129,32,Female,97,67,FALSE,2012-09-14,0.5926656433332914,FALSE,85.7,91.9,92.5,5,4,3,5,"You know, there are some things where Governor Romney is different from George Bush.",Balochi,Javanese,Maine
+00130,33,Female,123,65,TRUE,2008-10-19,1.6539955889826146,TRUE,89.9,86.5,86.1,2,5,2,5,"Mister President, let me |",Spanish,Min Bei,Florida
+00131,27,Female,100,75,FALSE,2010-01-15,0.3598585855230768,TRUE,83,91.8,98.6,1,3,2,1,I will never know.,Romanian,Burmese,Florida
+00132,33,Male,81,70,TRUE,2008-08-25,1.8251125608785037,FALSE,88.6,90.1,85.9,2,4,5,1,"And by the way, you skipped Israel, our closest friend in the region, but you went to the other nations.",Javanese,Balochi,Montana
+00133,28,Male,106,69,TRUE,2008-04-03,1.8068817487343596,FALSE,95.3,85.8,93.2,2,3,2,1,We'll talk about specifically about health care in a moment.,Malay/Indonesian,Hindi,South Carolina
+00134,24,Female,103,71,TRUE,2010-10-18,0.6327780317726456,FALSE,82.5,88.6,84.1,5,1,1,4,And we are now in a position where we have met many of the objectives that got us there in the first place.,Min Dong,Hindi,California
+00135,27,Female,97,71,TRUE,2008-07-17,0.61841142411942,FALSE,83.9,93.1,93.3,4,3,5,2,"Bush, and how do you differentiate yourself from George W.",Dhundhari,Gan,North Carolina
+00136,26,Male,93,66,TRUE,2010-01-01,-1.1276984318944983,TRUE,84.2,86.7,87.5,2,5,1,5,I want to call on Michael Jones.,Nepali,Tamil,California
+00137,26,Female,95,67,TRUE,2012-09-01,-0.08777843149465991,FALSE,92,85,91.6,5,5,2,4,You just gave a speech a few weeks ago in which you said we should still have troops in Iraq.,Kinyarwanda,Spanish,Nevada
+00138,32,Male,115,69,FALSE,2009-03-16,-1.0456833035594233,TRUE,89.9,81.8,79.2,4,2,3,1,"And that we do those things that make America the most attractive place in the world for entrepreneurs, innovators, businesses to grow.",Belarusian,Wu,Wisconsin
+00139,32,Female,95,70,FALSE,2012-04-08,1.2285213054879407,FALSE,84.3,84.9,93.9,2,3,4,5,What you did instead was to push through a plan without a single Republican vote.,Arabic,Dhundhari,Maryland
+00140,23,Female,91,63,FALSE,2011-06-09,2.3954018446335286,FALSE,91.9,86.7,89.9,1,3,3,5,All those changes in our tax code would make a difference.,Oriya,Malay/Indonesian,Missouri
+00141,21,Male,99,72,TRUE,2010-08-28,0.7167221809388559,FALSE,88.2,87.7,84.3,3,3,3,5,"That's that's important, of course.",Balochi,Hmong,Texas
+00142,35,Male,104,68,FALSE,2011-03-03,1.935508008819333,FALSE,80,92.2,91.8,2,3,4,4,"Making sure that we're bringing manufacturing back to our shores so that we're creating jobs here, as we've done with the auto industry, not rewarding companies that are shipping jobs overseas.",Ilokano,Malay/Indonesian,Michigan
+00143,26,Male,90,70,TRUE,2012-06-09,0.42303282752880667,TRUE,90.7,91.7,84.8,3,3,4,4,We are playing the leadership role.,Malagasy,Kannada,Nevada
+00144,24,Female,110,70,FALSE,2008-05-06,0.9863744441284615,TRUE,92.6,86.2,83,2,4,5,2,get someone else's.,Kinyarwanda,Balochi,Pennsylvania
+00145,33,Female,95,71,FALSE,2010-07-07,-0.7720569105585551,FALSE,88.5,91.7,86.3,5,2,3,2,Why am I lowering taxes on the middle class?,Hiligaynon,Dhundhari,Wisconsin
+00146,21,Male,95,71,TRUE,2011-01-28,-1.2776696400645449,TRUE,81.4,87.5,87.2,4,3,1,2,"Governor Romney, you keep on trying to, you know airbrush history here.",Xhosa,Thai,Mississippi
+00147,33,Male,97,66,TRUE,2011-07-14,-0.130920278736289,TRUE,74.5,84.2,85,1,5,1,4,Absolutely.,Spanish,Vietnamese,Texas
+00148,29,Female,98,71,TRUE,2011-02-06,0.1818795302859529,TRUE,88,86.2,94.4,3,3,3,3,"You might say, Well, you got an example of one that worked better?",English,Italian,Mississippi
+00149,27,Female,120,68,TRUE,2009-08-17,0.6930828342704687,FALSE,91.7,89.4,88.3,1,4,2,4,taxes compared to companies here that are paying taxes.,Quechua,English,New York
+00150,27,Female,106,72,TRUE,2012-02-18,-0.3169720456055689,TRUE,80.4,88.7,83.4,2,3,2,2,"And when we do things like that when we bring those who have harmed us to justice, that sends a message to the world and it tells Peyton that we did not forget her father.",Portuguese,Swedish,California
+00151,27,Female,97,76,TRUE,2010-11-18,0.16748425647848372,FALSE,94.4,85.5,86.9,5,5,5,5,You keep your own doctor.,Konkani,English,Arizona
+00152,28,Male,97,62,TRUE,2008-12-07,0.7730460583502257,FALSE,92.1,84.8,88.2,5,5,5,5,This was an attack by terrorists.,Arabic,Kirundi,New York
+00153,21,Female,94,74,TRUE,2010-10-08,-1.1197991044418707,TRUE,91.2,82.8,93,1,5,2,1,He gets the first.,Spanish,Russian,Indiana
+00154,25,Male,112,65,TRUE,2007-12-07,-1.4645450427254876,FALSE,88.7,83.8,86.7,5,4,2,2,"So I'll let the American people decide, judge, who's going to be more effective and more credible when it comes to imposing crippling sanctions.",Balochi,Arabic,Maryland
+00155,26,Male,99,67,TRUE,2009-07-30,0.33028771302788973,FALSE,86.9,82.7,89.4,4,5,4,4,I do not believe in cutting our military.,Min Nan,Hungarian,Washington
+00156,35,Male,104,70,FALSE,2007-09-02,-1.8103791829171267,TRUE,87.8,83.1,83,1,3,1,4,And so seeing Syria remove Assad is a very high priority for us.,Tagalog,Arabic,Pennsylvania
+00157,21,Female,99,69,TRUE,2010-02-09,-0.8294260175667681,FALSE,83.1,87.9,93.8,3,4,4,1,"May I ask you, you know, during the Egyptian turmoil, there came a point when you said it was time for President Mubarak to go.",Spanish,Oromo,California
+00158,25,Male,95,65,TRUE,2008-02-20,-0.36128397773686627,TRUE,83.7,86.1,87.9,1,2,2,2,It's absolutely true.,Korean,Hindi,Illinois
+00159,21,Male,107,79,TRUE,2012-09-08,0.613151469554644,TRUE,88.9,84.2,89,1,3,4,3,"'Cause I'm going to bring rates down across the board for everybody, but I'm going to limit deductions and exemptions and credits, particularly for people at the high end, because I am not going to have people at the high end pay less than they're paying now.",Sylheti,Russian,Massachusetts
+00160,33,Female,97,66,FALSE,2008-08-29,1.7865213478242064,FALSE,90.4,89.6,85.4,3,4,3,4,"Well, actually Governor, that isn't what your plan does.",Vietnamese,Hindi,Washington
+00161,23,Female,102,70,TRUE,2010-04-01,0.7310812828821903,TRUE,88.1,85.5,89.5,1,1,3,1,"He keeps saying, Look, I've created five million jobs.",Mossi,Czech,Nebraska
+00162,26,Female,87,65,TRUE,2011-06-06,1.3570965580825325,FALSE,88.4,88.3,94.9,1,4,3,3,And it was worth moving heaven and earth to get him.,Spanish,Kannada,Michigan
+00163,29,Male,102,64,FALSE,2008-07-17,1.6891747493411486,FALSE,90.2,83.5,89.2,5,4,4,4,And we're retaining our workers for the jobs of tomorrow.,Kinyarwanda,Spanish,Florida
+00164,34,Male,106,71,TRUE,2008-04-24,-0.4996683774233114,TRUE,89.1,82.9,87.4,2,5,1,4,"Well, thank you very much, Bob, Governor Romney, and to Lynn University.",Chhattisgarhi,Spanish,Indiana
+00165,25,Female,117,72,FALSE,2008-02-29,-0.18464809083077252,TRUE,88.6,81.5,88.3,2,5,1,5,"It's what I look forward to doing and I know what it takes to make an economy work, and I know what a working economy looks like.",Bhojpuri,Spanish,Texas
+00166,20,Male,74,69,FALSE,2012-08-27,-0.3101157758700436,FALSE,88.7,85.3,85.5,1,5,1,1,"This is a group that is now involved in ten or twelve countries, and it presents an enormous threat to our friends, to the world, to America, long term, and we must have a comprehensive strategy to help reject this kind of extremism.",Bengali,Japanese,Georgia
+00167,30,Male,83,66,FALSE,2011-11-14,-0.8734637373300189,FALSE,91.6,89,84,4,2,4,5,We drove our schools to be number one in the nation.,Kinyarwanda,English,Connecticut
+00168,25,Male,96,62,FALSE,2009-01-29,-0.6364097375423218,TRUE,78.7,94,86.8,2,5,4,5,"And that's why the plan that I've put forward for manufacturing and education, and reducing our deficit in a sensible way, using the savings from ending wars, to rebuild America and putting people back to work.",Kinyarwanda,Magahi,Mississippi
+00169,29,Female,78,73,TRUE,2007-05-04,-0.33986986590556173,FALSE,86.1,93,88.4,4,4,5,4,We've seen progress and gains in schools that were having a terrible time.,Sinhalese,Bengali,California
+00170,20,Female,95,68,FALSE,2012-06-29,-0.009833663361022617,FALSE,89.9,93.1,82.9,2,2,1,4,I do not believe in cutting our military.,Chhattisgarhi,Arabic,Pennsylvania
+00171,31,Female,93,71,FALSE,2008-04-12,-0.8719795108349663,TRUE,85,88.8,82.9,5,2,5,3,We've got potentially six hundred thousand jobs and one hundred years worth of energy right beneath our feet with natural gas.,Kinyarwanda,Hmong,New York
+00172,23,Female,110,67,TRUE,2008-05-25,0.9050722681894933,FALSE,89.9,86.2,87.1,1,1,2,5,"And part of that is bringing in a pipeline of oil from Canada, taking advantage of the oil and coal we have here, drilling offshore in Alaska, drilling offshore in Virginia where the people want it.",Hausa,Telugu,Wisconsin
+00173,28,Male,97,73,TRUE,2007-10-01,-0.4907337407379874,FALSE,87.3,86.3,88.4,3,4,3,1,"And what I now want to do is to hire more teachers, especially in math and science, because we know that we've fallen behind when it comes to math and science.",Wu,Swedish,Texas
+00174,20,Female,119,70,FALSE,2011-01-31,-0.8136471227047299,TRUE,85.7,87.9,87.5,2,5,4,5,Let me go to Governor Romney because you talked about Pakistan and what needs to be done there.,Somali,Javanese,Rhode Island
+00175,24,Male,98,68,TRUE,2010-07-11,-0.4602034652585772,FALSE,84.8,99,88.8,3,3,3,3,I also want to make sure that we get this economy going.,Italian,Bengali,Missouri
+00176,31,Female,84,67,FALSE,2009-10-06,-0.38348196166325915,FALSE,92.6,82,94.2,4,4,3,4,"We created partnerships throughout the region to deal with extremism in Somalia, in Yemen, in Pakistan.",Ilokano,Spanish,Oregon
+00177,26,Female,92,67,TRUE,2010-09-24,-1.149625614069309,TRUE,89.8,83.5,87.5,1,2,5,3,Nothing wrong with that.,Portuguese,Hmong,Virginia
+00178,29,Male,105,67,FALSE,2011-07-27,-0.8028235286503607,TRUE,90.8,88.2,94.1,1,3,2,5,"And I just described I just described to you, Mister President I just described to you precisely how I'd do it which is with a single number that people can put and they can put they're they're deductions and credits|",Shona,Tagalog,Georgia
+00179,30,Female,89,65,TRUE,2009-04-16,1.8331708844949623,FALSE,89.6,86.8,83.3,3,3,3,2,"Number three, it puts in place an unelected board that's going to tell people ultimately what kind of treatments they can have.",Min Dong,Pashto,Virginia
+00180,27,Female,119,67,TRUE,2008-03-08,0.08864300949139015,FALSE,89.9,89.4,86.5,4,1,4,3,"I want to move you both along to the next question, because it's in the same wheelhouse, so you will be able to respond.",Bengali,Kinyarwanda,Pennsylvania
+00181,21,Male,90,68,TRUE,2011-03-12,0.47977595458643224,FALSE,87.7,88,89.3,3,4,2,2,No.,Japanese,Min Dong,Louisiana
+00182,31,Female,107,64,FALSE,2011-09-16,1.7101808762799724,TRUE,91.7,90.5,93.3,2,3,4,5,"And Governor Romney wants to take us back to those policies, a foreign policy that's wrong and reckless, economic policies that won't create jobs, won't reduce our deficit, but will make sure that folks at the very top don't have to play by the same rules that you do.",French,English,Kansas
+00183,30,Male,100,67,FALSE,2007-05-23,1.0835514532729025,TRUE,93.7,87.8,88.6,3,1,4,2,I'm Candy Crowley from CNN's State of the Union.,Min Bei,Bengali,California
+00184,20,Female,97,70,FALSE,2012-05-12,-1.2654618807791223,TRUE,88.1,86.7,90.9,1,2,4,1,I do want to make sure that|,Belarusian,Polish,Ohio
+00185,21,Female,98,59,FALSE,2012-01-31,0.02628759135814198,FALSE,84.6,86.5,87.7,4,4,4,4,per year in higher taxes as a result of the spending and borrowing of this administration.,Spanish,English,Arkansas
+00186,30,Male,109,78,FALSE,2009-05-03,-0.4540045838070367,TRUE,85.5,85.7,83.8,2,4,4,4,Their choice.,Swedish,Hmong,Pennsylvania
+00187,31,Male,112,62,TRUE,2012-04-15,1.474259441744729,FALSE,89.8,95.7,86,1,1,5,4,Folks on Social Security who've worked all their lives.,Telugu,Arabic,Wisconsin
+00188,32,Female,117,67,FALSE,2011-02-08,0.12925056472333557,TRUE,85.1,85.8,95.5,5,4,4,1,And there was no demonstration involved.,Urdu,English,California
+00189,34,Male,86,70,TRUE,2011-07-11,0.5525058047679244,FALSE,84.1,87.8,88.4,2,3,3,4,Thank you.,English,Uyghur,New York
+00190,26,Male,105,65,TRUE,2010-07-07,-1.0474937065597685,TRUE,90.1,83.1,85.9,3,1,4,4,"He said, I'll get back to you.",Spanish,Russian,Florida
+00191,25,Male,89,74,TRUE,2009-10-22,0.6995162169583857,FALSE,89.6,94.8,82.9,3,4,4,1,We've brought twice as many cases against unfair trading practices than the previous administration and we've won every single one that's been decided.,Sylheti,Spanish,Georgia
+00192,32,Female,74,68,TRUE,2007-07-22,1.14150237585517,FALSE,92.4,88.1,83.9,3,4,1,2,And we need to make sure they have the arms they need to carry out the very important role which is getting rid of Assad.,Hiligaynon,Ukrainian,Florida
+00193,33,Female,100,66,FALSE,2007-11-19,-0.7788867823906764,TRUE,93,84.8,96.4,2,4,1,2,Lorraine.,Saraiki,Malay/Indonesian,Idaho
+00194,31,Female,80,70,TRUE,2011-05-22,-0.2787001507896454,TRUE,85.7,86.2,92,5,1,3,4,He didn't call for self deportation.,Hiligaynon,Hiligaynon,Oregon
+00195,26,Female,99,70,TRUE,2009-08-22,0.6039834534232847,FALSE,85.5,83,82.5,1,4,2,2,My priority is jobs.,Sundanese,Korean,Connecticut
+00196,30,Female,119,70,FALSE,2009-01-15,-0.504809141967769,TRUE,91.2,87.2,85.8,1,3,2,4,"Mister President, last two minutes belong to you.",Czech,English,Illinois
+00197,26,Male,100,67,FALSE,2010-09-29,0.47894247174903876,TRUE,84.8,87.5,88.1,3,3,4,3,OK.,Arabic,Jin,California
+00198,31,Male,108,74,TRUE,2012-07-22,0.8027190790758032,FALSE,83.3,93.4,85.6,1,1,3,1,"When I came into office, the world was divided.",Mossi,Hindi,California
+00199,34,Female,88,75,TRUE,2009-03-08,-0.5370990812889641,TRUE,83.2,87,77.3,1,3,1,3,That's what I'm trying|,Uyghur,Fula,California
+00200,35,Male,85,70,TRUE,2010-07-26,0.5736115055830165,TRUE,88.8,91.7,82.8,3,2,2,1,These are not just women's issues.,Gujarati,Xiang,California
+00201,23,Female,108,68,TRUE,2008-06-03,0.5960579853610034,FALSE,79.4,87.3,87.8,5,2,5,2,Let's give the money directly to students.,Gujarati,Spanish,Florida
+00202,31,Male,110,68,TRUE,2007-12-19,-1.514510357547635,TRUE,85.9,87.2,97,2,5,1,1,His words amount to genocide incitation.,Awadhi,Hmong,California
+00203,31,Male,103,71,TRUE,2011-10-31,0.4293983623275572,FALSE,83.7,82.2,81.2,2,1,2,5,He now says he's going to replace Obamacare and ensure that all the good things that are in it are going to be in there and you don't have to worry.,English,Spanish,Rhode Island
+00204,31,Female,94,64,TRUE,2009-01-15,-0.3204750001497347,FALSE,91.3,97,88.7,3,3,4,1,I'd like to be that leader with your support.,Telugu,Mossi,California
+00205,25,Male,101,71,TRUE,2010-01-31,0.41106218917463355,TRUE,88.2,87.1,87.3,1,4,4,3,So more debt and less jobs.,Uyghur,Telugu,New York
+00206,33,Male,100,66,FALSE,2010-05-17,-0.506266244299422,FALSE,83.3,87.4,86.2,5,5,4,1,I'll do it again.,Arabic,Kirundi,California
+00207,30,Female,91,67,FALSE,2007-08-02,0.9263194057300026,TRUE,90.8,91.8,95.4,4,2,1,3,Every woman in America should have access to contraceptives.,Balochi,Portuguese,Florida
+00208,27,Male,98,64,FALSE,2010-03-28,-0.543535881760175,TRUE,87.5,90,84.4,4,4,2,3,"I was just at a coal facility, where some one thousand two hundred people lost their jobs.",Spanish,Russian,South Carolina
+00209,35,Female,97,65,TRUE,2010-11-06,-0.049752064171656674,TRUE,87.8,91.9,84.1,1,1,1,3,Let me give the president a chance.,Cebuano,Telugu,Hawaii
+00210,33,Female,102,73,FALSE,2009-11-22,-0.7765489304069095,TRUE,88.4,83.4,89.4,5,5,4,1,And the plans that I talked about will create even more.,Hindi,Urdu,Maryland
+00211,21,Male,78,71,TRUE,2011-12-31,0.6807761749172702,FALSE,85.9,93.2,92.2,3,1,5,3,S.,Dutch,Min Dong,Florida
+00212,30,Female,86,68,TRUE,2012-07-28,-0.1370072380713361,TRUE,84.1,86.4,86.4,2,3,1,4,"No, no, I had a question and the question was how much did you cut them by?",Marathi,Marathi,Florida
+00213,27,Female,98,68,TRUE,2010-12-25,0.5316923248385322,TRUE,87.4,87.9,90.5,1,3,3,2,"But go ahead and use this two minutes any way you'd like to, the question is on the floor.",Swedish,Czech,Maryland
+00214,24,Male,115,66,FALSE,2007-10-05,0.7508175778933743,TRUE,89.9,93,90.6,5,4,3,2,And I would do nothing to hurt the U.,Arabic,Spanish,Maryland
+00215,24,Female,101,71,TRUE,2009-09-09,0.21117521101682823,TRUE,86.9,91.1,90.9,5,3,3,2,You'll get your chance in a moment.,Uyghur,Quechua,New York
+00216,23,Female,92,70,TRUE,2012-08-28,-0.8208468966813398,FALSE,90.6,86,86.9,3,4,2,5,"I mean, you have to have regulations so that you can have an economy work.",Korean,Fula,Florida
+00217,35,Female,95,70,TRUE,2010-07-07,-1.4553418965268738,TRUE,92,95.2,86.6,2,2,4,2,"You know, under my leadership, what we've done is reformed education, working with governors, forty six states.",Hindi,Quechua,Oregon
+00218,27,Male,91,71,FALSE,2009-12-13,-0.6310845238756404,TRUE,86.9,89,89.8,5,4,1,3,This puts us on a road to Greece.,Zhuang,Hindi,Oklahoma
+00219,28,Male,88,71,TRUE,2010-12-17,1.1713951057645422,TRUE,88.3,88.6,92.6,4,3,5,1,"Oh, well, no.",Polish,Wu,Missouri
+00220,34,Male,97,69,FALSE,2008-11-29,1.6752413796340881,TRUE,88.9,94.7,88.6,1,4,5,2,And I saw families there who showed me there where missiles had come down near their children's bedroo Miss And I was reminded of what that would mean if those were my kids.,Spanish,English,New York
+00221,22,Male,89,71,FALSE,2012-09-04,0.08504930121992049,FALSE,94.4,87.4,89.2,1,3,2,5,And and we should not have wasted these four years to the extent they they continue to be able to spin these centrifuges and get that much closer.,Romanian,Spanish,Illinois
+00222,34,Female,100,75,TRUE,2009-05-22,-0.16587433008997263,FALSE,85.5,86,88.2,2,3,3,2,"Mister President, have you looked at your pension?",Swedish,Konkani,Colorado
+00223,35,Male,94,71,FALSE,2011-09-15,-0.6079190118264347,TRUE,92,87.8,88,1,4,5,1,"His top adviser on immigration is the guy who designed the Arizona law, the entirety of it; not E Verify, the whole thing.",Igbo,Punjabi,Colorado
+00224,20,Male,107,73,FALSE,2011-08-14,-0.29128981237796303,TRUE,90.7,80.9,78.5,1,1,1,3,It's about who can get the middle class in this country a bright and prosperous future and assure our kids the kind of hope and optimism they deserve.,Shona,English,Pennsylvania
+00225,33,Female,112,70,TRUE,2008-06-08,0.6222677307135298,TRUE,96.1,77.5,87.2,3,4,4,4,Including Senators previously who had supported it on the Republican side.,Czech,Uyghur,Michigan
+00226,35,Female,88,70,FALSE,2010-03-06,-1.0280574935770068,TRUE,84,88,90.3,3,3,2,5,"dollar ninety billion, that would have that would have hired two million teachers.",Telugu,Czech,Tennessee
+00227,29,Female,113,72,FALSE,2012-01-24,1.0062015499622325,FALSE,81.6,90.9,79.5,5,4,3,4,And the proof of that is twenty three million people out of work.,Fula,Dhundhari,Nevada
+00228,21,Male,110,73,FALSE,2012-05-09,-0.7499342562820844,TRUE,81.7,88,86.4,3,3,2,5,I'm not going to grade the two of you and say your answers have been too long or I've done a poor job.,Konkani,Ilokano,California
+00229,25,Female,93,74,TRUE,2012-07-14,-0.3811167128378393,FALSE,89.8,87.2,82.8,1,4,4,3,I would liquidate the industry.,Bengali,Belarusian,California
+00230,35,Female,95,67,FALSE,2010-12-11,0.4369524152743046,TRUE,87.4,90.6,83.2,2,4,5,3,We have to also stand by our allies.,Arabic,Ukrainian,Minnesota
+00231,30,Female,97,61,TRUE,2008-05-08,0.20844213293075625,FALSE,89.1,91.6,87.5,3,1,2,1,Yes.,Bhojpuri,Romanian,Alabama
+00232,21,Female,93,62,TRUE,2008-08-22,0.5632991312261578,FALSE,94.7,92.2,92,4,2,5,4,"And Mister President, the next question is for you, so stay standing.",Belarusian,Spanish,Missouri
+00233,30,Male,107,72,TRUE,2007-07-01,-0.13577938242527032,TRUE,86.3,91.9,82.8,1,4,1,2,"And I understand they do include investments outside the United States, including in in Chinese companies.",Bengali,Spanish,Iowa
+00234,35,Female,104,63,FALSE,2011-07-04,-0.5937688316542589,FALSE,94,88.9,88.5,1,5,1,3,Regulations have quadrupled.,English,Hungarian,Georgia
+00235,32,Female,105,66,FALSE,2009-06-10,1.4770842539502096,TRUE,92.9,83.8,81.6,4,5,3,5,And and so the strength that we have shown in Iran is shown by the fact that we've been able to mobilize the world.,English,Czech,Oregon
+00236,31,Male,88,77,TRUE,2007-11-15,-0.3788373969840843,TRUE,90.8,89.9,79.2,5,1,3,4,How in the world the president said no to that pipeline?,Serbo-Croatian,Vietnamese,Mississippi
+00237,28,Female,111,70,FALSE,2007-06-02,0.8148927947299947,FALSE,86.2,90.2,88.6,1,5,3,1,These countries can't develop if young women are not given the kind of education that they need.,Belarusian,English,Florida
+00238,33,Male,96,66,FALSE,2008-06-17,0.06861906966504747,TRUE,85.5,82.4,81.5,4,2,2,2,I think this is a great example.,Javanese,Mossi,Virginia
+00239,29,Male,111,66,FALSE,2010-06-18,-0.126686350398324,TRUE,91.3,86.3,79.7,1,5,2,5,"Good evening from the campus of Lynn University here in Boca Raton, Florida.",Russian,Kannada,California
+00240,29,Male,108,73,TRUE,2009-10-18,0.3058015690711245,FALSE,96.7,95.3,90.5,2,5,2,3,"That wasn't true in his time, that's why my policy starts with a very robust policy to get all that energy in North America become energy secure.",Belarusian,Zulu,Ohio
+00241,23,Female,106,70,TRUE,2009-12-26,-1.2919660257661794,TRUE,90.5,88.3,86,1,3,5,1,We've mobilized sanctions against that government.,Gan,Arabic,Florida
+00242,22,Male,97,71,FALSE,2010-01-07,-1.09177831290502,TRUE,92.8,88.2,92.4,5,5,1,3,S.,English,Min Bei,Michigan
+00243,22,Female,108,67,FALSE,2011-04-11,1.1236965359275808,TRUE,92.6,89,89.2,3,2,5,3,"With half of college kids graduating this year without a college excuse me, without a job.",English,Fula,California
+00244,34,Male,87,73,TRUE,2010-04-23,-0.9100296583923767,FALSE,87.7,88,80.3,2,2,4,2,I said we're going to bet on American workers and the American auto industry and it's come surging back.,Polish,Konkani,New York
+00245,34,Male,89,67,FALSE,2012-06-09,-0.8061061850483735,TRUE,97,88.4,95.1,3,3,4,1,I don't think anyone really believes that you're a person who's going to be pushing for oil and gas and coal.,Kazakh,Ukrainian,New Jersey
+00246,25,Male,96,70,FALSE,2012-09-25,0.06564387273823326,FALSE,79.6,85.8,78.4,3,1,5,1,"And what we've also done is engaged these governments in the kind of reforms that are actually going to make a difference in people's lives day to day, to make sure that their governments aren't corrupt, to make sure that they're treating women with the kind of respect and dignity that every nation that succeeds has shown and to make sure that they've got a free market system that works.",Saraiki,Hindi,California
+00247,34,Female,101,64,FALSE,2009-07-07,1.4125703980057542,TRUE,89.4,83.9,91.1,5,4,5,3,And I am confident that Assad's days are numbered.,Azerbaijani,Kinyarwanda,Virginia
+00248,30,Female,84,71,FALSE,2008-03-12,-0.6594069127804781,TRUE,85.4,87.5,91.8,5,5,2,2,"We were sitting around, talking about Libya, and we were reading and became aware of reports that the State Department refused extra security for our embassy in Benghazi, Libya, prior to the attacks that killed four Americans.",Cantonese,Shona,Oregon
+00249,27,Female,95,69,FALSE,2008-04-29,-1.566532893039857,TRUE,88,78.4,88.3,2,1,2,4,You will each have two minutes to respond and then we will have a general discussion until we move to the next segment.,Spanish,Xiang,New York
+00250,27,Male,112,77,TRUE,2009-12-16,0.3697622373493837,TRUE,88.1,87.9,92.7,5,2,4,5,Governor?,Portuguese,Haitian Creole,Florida
+00251,27,Female,100,71,FALSE,2008-11-03,0.4987571091405397,FALSE,89.4,80.8,91,5,1,4,3,"It when Governor Romney talks about this board, for example, unelected board that we've created, what this is, is a group of health care experts, doctors, et cetera, to figure out, how can we reduce the cost of care in the system overall?",Ukrainian,Zulu,South Carolina
+00252,23,Male,109,68,FALSE,2011-12-24,-1.3661296991794647,FALSE,85.6,85.5,81.7,2,5,3,1,"I said that we would provide guarantees, and and that was what was able to allow these companies to go through bankruptcy, to come out of bankruptcy.",Konkani,English,Colorado
+00253,27,Male,81,68,TRUE,2008-05-12,-0.6502496773921604,FALSE,98.5,87.5,86.6,2,3,1,1,"However, I do attribute much of America's economic and international problems to the failings and missteps of the Bush administration.",Spanish,Hindi,New York
+00254,31,Female,97,68,FALSE,2011-03-16,-0.5464225510000471,FALSE,89.2,89.6,86.9,5,3,1,5,We'll bring back manufacturing to America.,English,Hindi,Colorado
+00255,27,Male,112,64,FALSE,2010-07-07,-0.09612250113227837,TRUE,89.8,89.5,87.1,5,2,5,1,That's why I put out a five point plan that gets America twelve million new jobs in four years and rising take home pay.,Tamil,Arabic,Massachusetts
+00256,27,Female,94,72,FALSE,2010-11-09,0.9893973181963794,FALSE,89.2,86.3,87.8,1,1,4,5,I've done it my entire life.,English,Uzbek,California
+00257,30,Male,78,67,TRUE,2009-10-10,-0.5036895803502,FALSE,83.8,89.7,91.6,1,1,5,1,"So he's got the oil and gas part, but he doesn't have the clean energy part.",Zhuang,Spanish,Connecticut
+00258,32,Female,98,67,TRUE,2009-11-19,1.3849503278488364,TRUE,80.1,92.8,90.6,3,5,1,4,Absolutely.,Malagasy,Hindi,Florida
+00259,30,Male,107,70,TRUE,2008-05-06,0.6613996301412279,FALSE,87.2,88.3,92.5,1,2,1,1,That's math that doesn't add up.,Fula,Hindi,Pennsylvania
+00260,23,Female,88,70,TRUE,2012-05-31,0.7330717667793153,FALSE,81.9,86.6,88.1,5,1,4,5,"I I was I was someone who ran businesses for twenty five years, and balanced the budget.",Min Dong,Balochi,South Carolina
+00261,34,Male,86,71,FALSE,2009-02-18,1.2903870585885417,TRUE,82.7,84.4,86.8,5,2,2,4,"My chief of staff, for instance, had two kids that were still in school.",Bengali,Haitian Creole,Georgia
+00262,25,Female,96,64,FALSE,2009-07-13,0.33994222861370527,TRUE,86.1,88.8,91.6,4,2,2,1,OK.,English,Min Bei,California
+00263,26,Male,106,68,TRUE,2007-11-21,-0.623304558208823,TRUE,85,92,92.2,5,5,5,2,That happened before you came into office.,Spanish,Kirundi,Georgia
+00264,33,Female,99,71,FALSE,2011-05-22,-1.3509782285159813,FALSE,82.2,94.8,82.6,3,2,4,4,Thank you so much.,Spanish,English,West Virginia
+00265,35,Male,100,64,TRUE,2012-05-19,0.006804836862730124,TRUE,87.5,86.6,85,5,4,5,1,That's what I'm trying|,Jin,Sinhalese,Minnesota
+00266,22,Female,105,68,FALSE,2009-11-03,0.13074979772296746,FALSE,91,94.8,90.2,5,5,4,3,And we can do it in an environmentally sound way.,Tamil,French,California
+00267,21,Male,102,66,TRUE,2010-12-18,-0.12513349568568327,TRUE,88.3,86.1,81.8,2,4,1,2,I had the chance to be governor of a state.,Greek,Haitian Creole,Georgia
+00268,30,Female,101,76,TRUE,2007-04-23,-1.2448783786807847,TRUE,83.8,86,81.4,5,3,2,4,Mister President?,Swahili,Turkish,Pennsylvania
+00269,29,Female,83,71,TRUE,2011-03-21,-0.7272272876116431,FALSE,89,81.4,82.9,2,4,1,4,"When we went in to Libya, and we were able to immediately stop the massacre there, because of the unique circumstances and the coalition that we had helped to organize.",Min Bei,Zulu,Washington
+00270,20,Male,89,70,TRUE,2007-11-05,-0.08757902225883932,FALSE,91.4,96.2,92.7,2,4,4,1,"I've watched year in and year out as companies have shut down and people have lost their jobs because China has not played by the same rules, in part by holding down artificially the value of their currency.",Min Dong,Russian,Tennessee
+00271,20,Male,108,66,TRUE,2009-09-18,0.2597497168468733,TRUE,77.4,83.7,88.5,5,1,4,4,That's part of the reason why the Libyans stand with us.,Arabic,Sylheti,New York
+00272,24,Female,118,66,FALSE,2010-12-10,-1.2349005295954116,FALSE,84.7,86.6,87.2,4,4,3,5,"You know, after we killed bin Laden I was at ground zero for a memorial and talked to a young women who was four years old when nine/eleven happened.",Quechua,Russian,Ohio
+00273,24,Female,108,70,TRUE,2009-07-17,0.9148889033274273,TRUE,84.6,90.5,85.4,5,4,3,2,"No, no.",Min Nan,Marathi,Idaho
+00274,20,Female,99,70,FALSE,2009-05-20,-0.6924479010647328,TRUE,86.1,80.5,87.2,3,5,2,4,"Now, keep in mind that our military spending has gone up every single year that I've been in office.",Wu,Portuguese,Mississippi
+00275,34,Female,86,65,FALSE,2007-12-18,-0.9126304695497386,FALSE,86.4,87.8,91.7,3,3,1,2,"But you make a very good point, which is that the place you put your money just makes a pretty clear indication of where your heart is.",Spanish,Persian,Florida
+00276,23,Male,92,70,TRUE,2007-06-12,2.167150628436182,TRUE,90.5,88.2,82,4,1,3,1,Come on our website.,Igbo,Sylheti,New Mexico
+00277,21,Male,94,72,FALSE,2009-09-08,0.20887062245390767,FALSE,89.6,89.4,91.2,2,2,2,1,You've done a great job.,Russian,Tagalog,Michigan
+00278,21,Male,115,67,FALSE,2008-03-29,0.7214618784694675,FALSE,84.4,88.9,85.4,2,2,2,3,You look at the record of the last four years and say is Iran closer to a bomb?,Jin,Hindi,California
+00279,26,Female,110,74,TRUE,2007-08-02,-0.08511516293112334,TRUE,86.8,79.4,91.7,2,3,1,5,I I have to respond to that.,Cebuano,Quechua,Florida
+00280,29,Female,99,64,TRUE,2009-11-26,-0.2351493679170899,TRUE,89.8,86.6,96.2,5,1,2,3,"Governor Romney, your two minute closing.",Wu,Spanish,Massachusetts
+00281,35,Female,91,69,FALSE,2007-12-18,-0.49388844334236137,FALSE,85.2,84.9,95.2,5,4,5,5,That that Detroit that Detroit answer|,Russian,Hiligaynon,Florida
+00282,26,Male,101,64,TRUE,2009-01-13,0.642247845100004,FALSE,82,93.2,95.7,4,5,2,1,Two minutes.,Sylheti,Kirundi,Arkansas
+00283,21,Female,93,76,FALSE,2011-10-21,-0.03178254569345108,FALSE,94.1,83.8,92.5,3,4,4,2,The|,Spanish,Haryanvi,California
+00284,27,Male,105,68,TRUE,2008-06-11,-1.3979477720150693,TRUE,83.8,92.5,90.2,2,1,3,3,Let the states and localities do that.,Punjabi,Hindi,Maryland
+00285,29,Female,129,69,TRUE,2012-02-04,-0.6022919087374214,TRUE,86.1,82.5,85.4,1,1,1,4,"Over the last four years we've made real progress digging our way out of policies that gave us two prolonged wars, record deficits and the worst economic crisis since the Great Depression.",Min Dong,Jin,Minnesota
+00286,27,Male,98,68,FALSE,2011-09-05,0.956054198661777,FALSE,80.3,85.7,78,2,2,1,4,So that'll stay the same.,Vietnamese,English,Mississippi
+00287,20,Female,104,62,FALSE,2007-05-21,0.6115821294333834,TRUE,85.3,89,88.1,5,3,2,5,"Now, Governor Romney, when you were asked by teachers whether or not this would help the economy grow, you said this isn't going to help the economy grow.",Belarusian,Italian,New York
+00288,30,Female,85,66,FALSE,2010-07-06,0.2678831635795657,FALSE,87.7,86.4,85.4,3,3,4,2,I'd like to hear each of you give your thoughts on that.,Shona,English,New York
+00289,25,Male,100,68,FALSE,2009-05-23,0.08412382042916645,FALSE,87.4,90.9,90.1,4,2,1,3,"With respect, sir, you had laid out quite a program|",Arabic,Mossi,Texas
+00290,32,Male,116,67,FALSE,2009-08-22,-0.17501050144818178,FALSE,86.4,92.9,91.8,1,5,5,2,"I want high wage, high skill jobs.",Russian,Russian,Illinois
+00291,21,Female,108,65,FALSE,2007-12-31,-1.7626316256474022,TRUE,83.7,89.1,85.4,4,3,1,3,"And everything that I've tried to do, and everything that I'm now proposing for the next four years in terms of improving our education system or developing American energy or making sure that we're closing loopholes for companies that are shipping jobs overseas and focusing on small businesses and companies that are creating jobs here in the United States, or closing our deficit in a responsible, balanced way that allows us to invest in our future.",Portuguese,Thai,Ohio
+00292,26,Female,94,67,TRUE,2010-11-30,0.30164774509105624,TRUE,89.8,85.7,90.1,5,5,2,1,Well I believe we should use any and all means necessary to take out people who pose a threat to us and our friends around the world.,Oriya,Bengali,New York
+00293,34,Female,97,66,TRUE,2007-12-04,0.16497361998729312,FALSE,87.5,92.6,86.6,4,3,3,2,"How do you see the federal government's responsibility to, as I say, to improve the quality of public education in this country?",Bengali,Bengali,California
+00294,26,Male,91,75,FALSE,2010-09-13,-1.4718619114776794,FALSE,93,85.8,90.1,4,1,2,5,Lorraine.,Spanish,Swedish,Florida
+00295,24,Female,89,62,TRUE,2009-12-03,0.36789947907826465,FALSE,91.5,92.2,92.1,2,2,3,4,"But, what you can't do is spend dollar two trillion in additional military spending that the military is not asking for, dollar five trillion on tax cuts.",Swedish,Uyghur,Washington
+00296,21,Female,101,65,FALSE,2007-07-21,1.3195867083014055,FALSE,88.9,86,85,2,4,4,3,"So, for example, on wind energy, when Governor Romney says these are imaginary jobs.",Bengali,English,South Carolina
+00297,34,Male,94,74,FALSE,2012-06-17,1.4708402520083237,FALSE,88,94.5,91.9,3,3,4,5,Or Germany.,Cantonese,Kinyarwanda,Virginia
+00298,28,Male,105,71,FALSE,2009-02-25,0.3822672869063832,FALSE,93.2,87,87.7,5,3,3,2,"And for them to be able to provide nuclear technology to non state actors, that's unacceptable.",Belarusian,English,New York
+00299,29,Male,90,69,FALSE,2009-12-25,0.8841582179057099,TRUE,90.9,93.5,87.9,4,3,1,1,"And these businesses, many of them have gone out of business, I think about half of them, of the ones have been invested in have gone out of business.",Awadhi,Spanish,Indiana
+00300,21,Female,119,61,TRUE,2011-12-27,-0.12713466602617268,FALSE,92.4,89.5,86.8,2,4,2,1,CROWLEY: Governor?,Spanish,Italian,Washington
+00301,21,Male,108,66,TRUE,2008-05-24,-1.0426342730522105,TRUE,87,88,87.3,4,5,5,2,So we just have a different theory.,Chittagonian,Urdu,Pennsylvania
+00302,27,Male,96,68,FALSE,2007-08-06,-0.8879494775725125,FALSE,83.3,86.2,89.9,2,1,1,5,They'll make things happen to create jobs here in the United States.,Arabic,Zhuang,Wisconsin
+00303,33,Male,103,66,FALSE,2007-11-07,0.2000511520087281,FALSE,95.1,88.3,82.4,2,1,5,3,"You know, Moammar Gadhafi had more American blood on his hands than any individual other than Osama bin Laden.",Konkani,Sylheti,North Carolina
+00304,23,Male,101,71,FALSE,2010-04-25,3.30946753394295,FALSE,89.8,88.7,85.9,1,4,4,5,"So what we said was you can't just sit on this for ten, twenty, thirty years, decide when you want to drill, when you want to produce, when it's most profitable for you.",Arabic,Bengali,Texas
+00305,31,Male,117,71,TRUE,2010-07-21,0.3231639684187072,FALSE,93.6,89.6,80.7,4,4,4,2,No.,Portuguese,Tamil,New York
+00306,26,Male,88,66,TRUE,2011-11-02,0.6369038869590166,TRUE,88.9,85.7,87.1,2,3,4,5,And it includes within it a number of provisions that I think has some unintended consequences that are harmful to the economy.,Kinyarwanda,Russian,New York
+00307,25,Male,97,72,FALSE,2009-06-02,-0.7900386917060571,FALSE,89,94,84.9,3,5,3,5,"Attacking me is not talking about how we're going to deal with the challenges that exist in the Middle East, and take advantage of the opportunity there, and stem the tide of this violence.",English,Telugu,Pennsylvania
+00308,31,Male,89,68,TRUE,2011-05-26,0.23458612894650663,TRUE,86.6,82.1,89.5,2,3,4,5,I'm I'm I'm happy.,Hindi,Min Bei,California
+00309,35,Female,100,66,TRUE,2007-11-21,-1.0530633244131469,FALSE,86.6,87.3,84.4,2,1,5,2,I don't check it that often.,English,Spanish,Colorado
+00310,29,Female,103,69,TRUE,2011-07-04,0.4018794915531394,TRUE,81.6,92,83.7,5,4,3,1,"They look at America's commitments around the world and they see what's happening, and they say, well, OK.",Sundanese,Min Dong,Ohio
+00311,31,Female,103,68,TRUE,2011-10-06,-1.2518123095503668,TRUE,88.1,92.6,81.3,3,3,2,5,You will each have two minutes to respond and then we will have a general discussion until we move to the next segment.,Sinhalese,Deccan,Florida
+00312,34,Female,114,70,FALSE,2008-11-11,0.6925652461719272,FALSE,84,89.9,83.2,1,5,3,4,Talk about that in a minute.,Hindi,Bengali,Missouri
+00313,21,Male,103,72,FALSE,2011-09-14,-0.2801764940758215,TRUE,91.4,82.8,86.1,5,1,1,3,"Right now, the CBO says up to twenty million people will lose their insurance as Obamacare goes into effect next year.",Japanese,Arabic,Utah
+00314,30,Male,117,67,FALSE,2010-09-11,-1.8122759370924986,FALSE,88.9,82.1,82.9,2,4,4,3,She didn't complain.,Burmese,English,Ohio
+00315,21,Male,112,71,FALSE,2007-07-07,-2.1752606923682247,TRUE,86.1,83.9,84,5,1,5,5,Why did he fail to even promote legislation that would have provided an answer for those that want to come legally and for those that are here illegally today?,Swedish,Javanese,Ohio
+00316,21,Female,96,66,TRUE,2012-03-30,-1.041708201143176,TRUE,88.6,92,90.9,3,2,5,3,And that's what we've done.,Persian,Xiang,North Carolina
+00317,28,Male,107,65,TRUE,2008-09-19,0.7485188129414831,FALSE,82.7,85.5,91.9,3,1,4,2,"It still provides safe haven for terrorists, yet we continue to give Pakistan billions of dollars.",Spanish,Dhundhari,Washington
+00318,33,Female,106,67,FALSE,2008-08-08,1.2960889071440904,TRUE,94.7,88.1,94.5,4,5,3,1,"China has an interest that's very much like ours in one respect, and that is they want a stable world.",Portuguese,Wu,South Carolina
+00319,22,Male,78,72,FALSE,2011-10-01,1.505600874716093,TRUE,95.4,86.6,90.2,4,4,2,4,Understand themselves as Americans in every way except having papers.,Czech,Min Bei,North Carolina
+00320,34,Male,103,73,FALSE,2012-05-10,0.09487831622857879,FALSE,96.9,88,85.3,1,4,2,5,This is not a new two minute segment to start.,Javanese,Spanish,West Virginia
+00321,29,Male,102,66,FALSE,2011-07-25,-0.39050967902121797,FALSE,86.5,91.1,85.7,2,3,5,5,I was on the world of business for twenty five years.,Mossi,Bhojpuri,Wisconsin
+00322,23,Male,116,73,FALSE,2009-12-24,-0.8236624186482754,FALSE,92.3,88.4,81.6,4,3,5,1,"And what's happened over the last four years has been very, very hard for America's young people.",Hiligaynon,Xiang,Massachusetts
+00323,22,Male,88,69,FALSE,2007-04-18,-1.4316272649922483,TRUE,94.5,96.1,91,5,1,4,2,"We're going to have to put in place a very comprehensive and robust strategy to help the the world of Islam and other parts of the world, reject this radical violent extremism, which is it's certainly not on the run.",Hiligaynon,Greek,Washington
+00324,22,Male,101,75,FALSE,2011-07-27,0.29699231693798683,TRUE,86.2,88.4,89,1,4,3,4,But all I want to do is go very quickly|,German,Spanish,California
+00325,28,Female,99,67,TRUE,2009-12-19,0.8559261753956233,TRUE,84.3,83.4,85.9,4,2,2,3,And|,Spanish,Punjabi,Massachusetts
+00326,31,Male,98,63,TRUE,2011-07-26,1.1423505632144313,FALSE,88.2,79.9,90.1,3,4,3,4,He's still there.,Javanese,Zulu,Florida
+00327,32,Male,99,65,TRUE,2009-11-18,-0.2869936865977104,TRUE,87.9,87.8,91.3,5,1,4,4,So our troops will come home at that point.,Gujarati,Hindi,Texas
+00328,32,Female,93,65,FALSE,2010-03-28,-1.195096675241993,TRUE,85.9,92.7,80.5,2,3,5,5,You said by now we'd be at five.,English,Khmer,Ohio
+00329,25,Male,113,76,FALSE,2010-08-27,-1.4034249901364586,TRUE,82.4,88.7,89.5,5,5,4,3,So that's the next area I'm different than President Bush.,Spanish,Japanese,New York
+00330,29,Male,102,72,FALSE,2007-04-28,0.3248771293634621,TRUE,85.3,80,89.7,1,1,2,5,"Thank you, Jim, and Mister President.",Swedish,Gan,Iowa
+00331,25,Male,100,65,TRUE,2007-12-11,1.9180717563713736,TRUE,89.1,91,84.5,2,4,3,1,It has killed jobs.,German,Balochi,Utah
+00332,34,Male,97,69,FALSE,2009-10-11,0.1497833498831634,TRUE,87.7,89.4,93.9,2,3,5,5,But we had been digging our way out of policies that were misplaced and focused on the top doing very well and middle class folks not doing well.,Sylheti,Zulu,Ohio
+00333,22,Male,104,70,FALSE,2008-03-28,2.2018195433392163,TRUE,91.6,87.6,85.3,2,2,4,5,Thank you so much.,Min Bei,Punjabi,Georgia
+00334,24,Female,113,71,FALSE,2012-03-23,1.2675024797196148,TRUE,87.3,96.2,89.9,5,3,1,1,And so|,French,Hmong,Pennsylvania
+00335,22,Male,98,69,TRUE,2008-08-26,-0.08726330620886487,TRUE,85.5,83.6,88.3,4,5,2,1,"In some places, yes.",Haitian Creole,Belarusian,California
+00336,27,Male,101,66,FALSE,2011-04-30,-1.0579699239672689,FALSE,94.5,84.8,82.4,5,3,2,1,"I want high wage, high skill jobs.",Hiligaynon,Hiligaynon,California
+00337,21,Female,94,70,TRUE,2009-02-13,0.403855788280603,FALSE,90.1,85.1,90.2,2,3,5,4,"And then I went down to the border towns of Storok, which had experienced missiles raining dowm from Hamas.",Hiligaynon,Hindi,Texas
+00338,30,Female,105,63,TRUE,2008-12-25,-0.6275339021733346,FALSE,87.2,85.7,81.5,1,1,3,1,If the president were to be reelected you're going to see a dollar seven hundred sixteen billion cut to Medicare.,Yoruba,Bengali,North Carolina
+00339,20,Female,104,66,FALSE,2010-10-07,-0.8926352557498588,TRUE,87,97.2,87,1,1,2,5,"And I've put forward a plan to make sure that we're bringing manufacturing jobs back to our shores by rewarding companies and small businesses that are investing here, not overseas.",Arabic,Russian,Texas
+00340,25,Female,96,67,TRUE,2008-04-27,-1.7348610439598657,TRUE,82.9,89.3,92.1,1,5,1,2,"Now, that also means that you've got more customers.",Min Bei,Spanish,Minnesota
+00341,25,Female,99,70,TRUE,2012-05-15,-0.975607393981578,TRUE,88.1,90.1,86.5,2,3,1,3,twenty or twenty five birds were killed and brought out a migratory bird act to go after them on a criminal basis.,Zulu,Portuguese,Ohio
+00342,27,Female,80,70,FALSE,2009-05-13,0.11280129769320917,FALSE,81.7,90.9,80.3,2,5,2,4,"But go ahead and use this two minutes any way you'd like to, the question is on the floor.",Haitian Creole,Uyghur,New Jersey
+00343,20,Male,102,70,FALSE,2009-01-07,-1.5878332404703024,TRUE,87.1,87.8,90.7,4,3,1,1,That's what's been squeezing middle class families.,Cantonese,English,Washington
+00344,21,Female,102,71,TRUE,2010-06-19,-0.4989364895045692,FALSE,89.8,91.3,95.8,1,4,2,3,Iran was resurgent.,Thai,Portuguese,Florida
+00345,31,Female,94,64,FALSE,2009-01-30,0.7479507388990823,FALSE,89.3,89.4,82,3,5,3,5,OK.,Persian,Portuguese,Florida
+00346,33,Female,102,71,TRUE,2012-07-16,-0.022165412638974754,FALSE,87.4,82.6,81.4,1,5,5,2,will be there for you.,German,Ukrainian,Florida
+00347,28,Male,93,71,TRUE,2008-07-31,0.4691686707913291,FALSE,86.3,73.4,86.6,3,4,2,3,One could follow Bowles Simpson as a model and take deduction by deduction and make differences that way.,Bengali,Sylheti,North Carolina
+00348,20,Female,93,64,FALSE,2008-11-06,-0.0340678689768732,TRUE,89.9,87,87.9,3,1,5,3,"And we've been through tough times but we always bounce back because of our character, because we pull together and if I have the privilege of being your president for another four years, I promise you I will always listen to your voices.",Czech,Kannada,California
+00349,32,Male,106,67,FALSE,2007-11-09,0.6915862167750693,TRUE,86.9,87.9,86.6,5,4,3,5,"We should be playing the leadership role there, not on the ground with military.",Javanese,Sundanese,Michigan
+00350,24,Male,95,66,FALSE,2007-05-02,-1.2038163159146622,TRUE,91.7,91.8,87.9,5,1,1,1,So we're already beginning to see progress.,Assamese,Russian,New Jersey
+00351,25,Male,99,69,FALSE,2008-07-30,0.5100564916060855,FALSE,86.6,84.7,88.2,1,2,3,2,But that's already the law and that doesn't help the millions of people out there with preexisting conditions.,Mossi,Bengali,Washington
+00352,23,Female,96,69,TRUE,2011-06-14,-0.19324073459255475,FALSE,80.3,94.2,91.4,2,3,5,2,Their oil production has plunged to the lowest level since they were fighting a war with Iraq twenty years ago.,Spanish,Spanish,Indiana
+00353,21,Female,95,71,TRUE,2010-09-28,0.09745090554387915,TRUE,90,92.3,82.5,2,3,4,5,So four years ago I stood on a stage just like this one.,Marwari,Hiligaynon,Missouri
+00354,35,Male,100,72,FALSE,2008-05-09,1.6061599172882173,FALSE,90.5,93.3,94,4,1,2,4,And when it comes to education what I've said is we've got to reform schools that are not working.,Haitian Creole,Marwari,Florida
+00355,35,Male,101,68,TRUE,2011-03-16,0.7894735139167045,TRUE,95.5,88.7,89.6,3,2,3,5,"I want to make America the most attractive place in the world for entrepreneurs, for small business, for big business, to invest and grow in America.",Vietnamese,Uyghur,North Carolina
+00356,32,Male,88,70,FALSE,2011-11-13,0.7367579706405183,FALSE,86.6,87.8,90.6,2,2,4,3,It's because we got everybody to agree that Iran is seeing so much pressure.,Dutch,Spanish,Missouri
+00357,28,Male,99,66,FALSE,2008-10-04,0.1607065457064607,FALSE,94.6,86.8,86.3,2,4,3,1,I got to I got to move you on.,Ilokano,Russian,Missouri
+00358,25,Male,85,69,TRUE,2012-06-11,-0.21478123589725634,TRUE,86.2,83.9,89.8,3,1,1,3,"That's not what I do as president, that's not what I do as Commander in Chief.",English,Telugu,New Jersey
+00359,27,Male,103,68,FALSE,2009-08-09,-0.3345000918709555,FALSE,92.4,81,84,1,2,4,4,In Dodd Frank|,Burmese,Italian,Pennsylvania
+00360,20,Female,102,67,FALSE,2008-04-06,-1.95175888371174,TRUE,93.5,90,83.9,3,4,4,2,I'm optimistic about the future.,Portuguese,Shona,Virginia
+00361,20,Female,106,71,FALSE,2012-01-09,0.9417748717311644,TRUE,89.1,82.8,87.5,5,3,3,1,"Using specific examples, can you take this opportunity to debunk that misperception and set us straight?",English,Zulu,Illinois
+00362,25,Male,108,68,TRUE,2012-03-06,-0.17883715527578334,FALSE,85.4,96.6,91.6,2,5,4,2,"And coal, coal production is not up; coal jobs are not up.",Min Bei,Punjabi,New York
+00363,33,Female,111,76,TRUE,2011-10-11,-0.16920500427289714,TRUE,89.1,84.8,86.2,4,5,2,2,So where'd the increase come from?,English,Malayalam,Arkansas
+00364,31,Female,105,65,TRUE,2010-01-27,0.17706148562909696,TRUE,93.6,85.9,85.6,2,2,3,5,"And unfortunately, that's the kind of opinions that you've offered throughout this campaign, and it is not a recipe for American strength, or keeping America safe over the long haul.",Nepali,Mossi,New York
+00365,29,Male,90,72,FALSE,2012-06-12,0.014012280790767603,FALSE,88.5,93.5,86.2,1,4,2,3,We had a tire case in which they were flooding us with cheap domestic tires or or cheap Chinese tires.,Czech,Sylheti,Washington
+00366,29,Female,93,78,TRUE,2007-05-26,-0.4780843939795666,TRUE,87.8,84.7,94.1,1,4,5,4,A half a million manufacturing jobs have been lost in the last four years.,Mossi,Russian,New Jersey
+00367,30,Male,118,70,TRUE,2012-07-29,-0.30308478538221323,TRUE,91.3,83,87.6,1,3,4,2,Where is Barry?,Gujarati,Portuguese,California
+00368,31,Male,93,78,TRUE,2008-05-19,-0.4696913331274194,FALSE,89.5,86.6,87.5,1,1,5,5,Let's talk|,Punjabi,Dhundhari,Michigan
+00369,22,Female,95,73,TRUE,2008-08-21,0.13542766818723082,TRUE,86.3,85.8,88.5,2,3,1,4,I'll get America and North America energy independent.,Malagasy,Xhosa,Colorado
+00370,24,Male,101,72,TRUE,2008-06-28,0.7017041368097151,TRUE,89.5,86.2,88.9,2,3,5,1,I'm convinced we'll do it.,Spanish,Sylheti,Oklahoma
+00371,23,Female,106,68,FALSE,2009-09-23,-0.220427898914765,FALSE,89.3,86.2,93.2,4,4,2,5,"And what we're seeing right now is, in my view, a a trickle down government approach, which has government thinking it can do a better job than free people pursuing their drea Miss And it's not working.",Ilokano,Assamese,Colorado
+00372,30,Male,103,64,FALSE,2009-12-02,0.22412406573715782,FALSE,90.9,96.2,87.8,3,1,2,2,Let's|,Russian,Arabic,New York
+00373,28,Male,83,68,TRUE,2009-12-19,0.915558450514497,FALSE,91.6,89.5,87.9,1,1,5,1,So we want to promote those principles around the world.,Ilokano,Nepali,Pennsylvania
+00374,30,Male,114,61,FALSE,2012-07-14,0.2645186068927291,FALSE,87.2,85.4,85.4,2,1,5,1,per year in higher taxes as a result of the spending and borrowing of this administration.,Malay/Indonesian,Portuguese,Texas
+00375,20,Male,104,66,TRUE,2008-02-11,0.7605368240348392,FALSE,90.7,83.9,88.4,1,1,5,3,"The questions are mine, and I have not shared them with the candidates or their aides.",Spanish,Cebuano,Georgia
+00376,24,Female,100,72,TRUE,2012-05-04,-1.0437009266095352,TRUE,86.4,84.2,86.2,2,5,4,3,"And we we look for discovery and innovation, all these things desired out of the American heart to provide the pursuit of happiness for our citizens.",Spanish,Oromo,North Carolina
+00377,21,Male,98,73,FALSE,2008-10-05,0.9910678395854939,FALSE,84.6,91.6,90.3,1,4,4,3,We're still down five hundred eighty thousand jobs.,Dhundhari,Ilokano,Iowa
+00378,24,Female,98,68,FALSE,2008-10-19,1.3819696752607071,FALSE,86.7,91.1,88.7,4,3,3,3,But just a few years ago you said that's something you'd never do.,Maithili,Hindi,Georgia
+00379,24,Male,80,65,TRUE,2011-06-26,1.0556043738232856,TRUE,89.1,92.6,86.7,4,4,2,2,S.,Hindi,Spanish,Michigan
+00380,35,Male,104,76,FALSE,2008-03-03,-0.9197472546273512,FALSE,89.7,81.3,87.4,5,1,3,2,"I like the fact that in my state, we had Republicans and Democrats come together and work together.",Russian,Maithili,Indiana
+00381,22,Male,101,68,FALSE,2010-01-08,0.3574678414272344,TRUE,77.9,88,95.6,5,5,5,1,The commanders and the generals there are on track to do so.,Min Nan,Marwari,Florida
+00382,33,Female,107,71,FALSE,2009-10-20,-1.0389250381054118,TRUE,89.1,89.8,93.4,2,2,5,1,I like American cars.,Kinyarwanda,Shona,Washington
+00383,27,Female,106,68,TRUE,2010-08-30,0.6001695598086861,TRUE,89.4,91.9,93.9,4,5,3,3,We had a tire case in which they were flooding us with cheap domestic tires or or cheap Chinese tires.,Hiligaynon,Chittagonian,New York
+00384,22,Male,110,65,TRUE,2010-05-22,-0.4257171681473974,TRUE,85.6,85.1,89.3,1,5,1,3,"But, ultimately, part of being principled, part of being a leader is, A, being able to describe exactly what it is that you intend to do, not just saying, I'll sit down, but you have to have a plan.",Spanish,Punjabi,New York
+00385,25,Male,87,76,FALSE,2007-10-21,-1.1385892578208916,TRUE,82,81.1,88.4,4,2,3,5,There've been one hundred twenty two community and small banks have closed since Dodd Frank.,Fula,Quechua,Ohio
+00386,25,Female,94,73,TRUE,2008-05-20,-0.091775338365986045,TRUE,90.5,90.4,88.4,1,4,3,4,That will not help us compete with China.,Marwari,Sylheti,California
+00387,31,Male,93,73,FALSE,2008-01-15,0.9115641515721461,TRUE,86.7,88.2,90.7,5,2,4,2,And I believe we're all children of the same God.,Arabic,Hmong,Illinois
+00388,21,Male,109,63,TRUE,2009-06-28,0.8941524482056485,TRUE,90.5,91.6,85.9,5,1,2,4,And she worked hard every day and made a lot of sacrifices to make sure we got everything we needed.,Russian,Persian,Iowa
+00389,30,Male,116,72,FALSE,2010-09-11,-1.0062585351790485,TRUE,89.7,94,85.2,4,2,4,1,"Because if they put their currency down low, that means their prices on their goods are low.",Dhundhari,Hindi,Florida
+00390,25,Male,98,66,TRUE,2009-06-03,1.5597420498064825,FALSE,89.4,87.2,85.8,5,1,3,4,"And so, in terms of bringing down deductions, one way of doing that would be say everybody gets I'll pick a number dollar twenty five thousand of deductions and credits, and you can decide which ones to use.",Spanish,Konkani,California
+00391,33,Female,85,76,TRUE,2008-07-18,-0.15465375341151447,FALSE,89.3,83,91.5,4,4,1,5,twenty or twenty five birds were killed and brought out a migratory bird act to go after them on a criminal basis.,Punjabi,Dhundhari,Kansas
+00392,24,Female,106,66,TRUE,2007-11-11,0.9763659449258197,TRUE,83.4,89.6,86.5,3,2,3,4,"What would be your position on those things, which are important to the middle class?",Kannada,Telugu,Virginia
+00393,33,Female,108,64,TRUE,2011-08-22,1.1389257223065372,TRUE,90.4,96,84.8,1,5,1,2,We've had forty three straight months with unemployment above eight percent.,Gan,Japanese,Pennsylvania
+00394,32,Male,95,65,TRUE,2009-04-26,0.7431402599685882,TRUE,90.3,84.9,90.3,5,5,1,4,"We've expanded Pell Grants for millions of people, including millions of young women, all across the country.",Spanish,Malay/Indonesian,Oklahoma
+00395,29,Female,103,64,FALSE,2009-09-28,0.45381165626994663,FALSE,81.7,85.2,87.9,2,3,5,2,You don't have to have the government mandate that for that to occur.,Bengali,Portuguese,Kentucky
+00396,29,Male,104,65,FALSE,2010-01-11,0.32503192453326935,TRUE,87.2,76.8,94.7,1,1,5,3,Their currency has dropped eighty percent.,Arabic,Hmong,Mississippi
+00397,25,Female,97,69,TRUE,2011-01-29,0.9131211776820974,FALSE,82.5,90.9,82.8,4,4,1,2,"We should have taken a leading role, not militarily, but a leading role organizationally, governmentally to bring together the parties; to find responsible parties.",Hindi,Bengali,Florida
+00398,21,Male,101,67,FALSE,2012-01-09,-0.3300073726713208,FALSE,90.4,87.4,83,2,3,5,3,In Dodd Frank|,Min Bei,Igbo,California
+00399,21,Female,97,68,FALSE,2009-03-09,1.1188872171017525,FALSE,91.9,88.9,80.4,5,4,2,5,"But what I've also said is, if we're serious about reducing the deficit, if this is genuinely a moral obligation to the next generation, then in addition to some tough spending cuts, we've also got to make sure that the wealthy do a little bit more.",Spanish,Gujarati,Pennsylvania
+00400,27,Female,91,67,FALSE,2010-02-20,0.30080430435191147,TRUE,93.1,87.1,90.5,5,1,1,5,"You said we should have gone into Iraq, despite that fact that there were no weapons of mass destruction.",English,Russian,California
+00401,29,Male,109,74,FALSE,2012-02-04,0.47027862209747423,FALSE,84.7,85.1,100,4,5,1,2,It was swept aside.,Jin,Spanish,Virginia
+00402,34,Female,94,73,TRUE,2008-02-11,-0.24396014746079242,FALSE,90.9,88.3,86,5,5,1,1,"What your plan does is to duplicate what's already the law, which says if you are out of health insurance for three months, then you can end up getting continuous coverage and an insurance company can't deny you if you've if it's been under ninety days.",Persian,Spanish,Arizona
+00403,30,Male,111,72,TRUE,2012-03-05,-1.2726679457674441,FALSE,90.2,96.8,88.2,5,4,1,1,"But but I can say this, that we're talking about the Middle East and how to help the Middle East reject the kind of terrorism we're seeing, and the rising tide of tumult and and confusion.",Malagasy,Zhuang,Maryland
+00404,23,Female,107,74,FALSE,2010-08-11,-0.672735383296637,TRUE,88.9,89.6,82.2,4,3,5,4,"And so everything we're doing, we're doing in consultation with our partners in the region, including Israel which obviously has a huge interest in seeing what happens in Syria; coordinating with Turkey and other countries in the region that have a great interest in this.",Zulu,Bengali,Florida
+00405,32,Female,97,65,TRUE,2010-05-15,-0.19356616674045174,FALSE,87.5,89.5,84.7,3,2,2,1,"And so as a consequence, they're paying their premiums, somebody gets really sick, lo and behold, they don't have enough money to pay the bills, because the insurance companies say that they've hit the limit.",Quechua,English,Ohio
+00406,21,Male,99,70,TRUE,2012-08-23,0.4198461299665275,FALSE,89.9,91.6,85.3,1,3,5,4,You know what?,Marwari,Zulu,Ohio
+00407,35,Female,64,70,FALSE,2010-07-25,-0.5590614900097937,FALSE,92.3,94.4,92.2,3,2,1,3,OK.,Belarusian,Portuguese,California
+00408,31,Female,84,68,FALSE,2011-09-16,-0.4741401411020203,FALSE,87.4,85.5,87.8,1,2,4,5,"We need to put the pressure on them as hard as we possibly can, because if we do that, we won't have to take the military action.",Nepali,Kirundi,Oklahoma
+00409,25,Female,99,67,TRUE,2011-12-08,-1.3535939237949444,FALSE,86.9,79.3,89.2,3,5,5,3,"Thank you Kerry for your question, it's an important one.",Tamil,Amharic,Indiana
+00410,28,Male,104,64,TRUE,2009-10-05,-0.8590532821927892,FALSE,92.3,92.3,78.9,3,2,4,2,"Let me also note that the greatest threat that the world faces, the greatest national security threat is a nuclear Iran.",Czech,Thai,Louisiana
+00411,20,Male,115,68,FALSE,2012-06-29,2.2680308155196722,FALSE,90.8,86.3,88,1,4,2,4,"We have not seen the progress we need to have, and I'm convinced that with strong leadership and an effort to build a strategy based upon helping these nations reject extremism, we can see the kind of peace and prosperity the world demands.",Sundanese,Sylheti,Kentucky
+00412,35,Female,87,65,TRUE,2010-12-07,-0.41881385638002055,FALSE,88.3,90.7,85.7,1,1,1,2,"I went to a number of women's groups and said, Can you help us find folks, and they brought us whole binders full of women.",Punjabi,Spanish,Connecticut
+00413,35,Male,99,73,TRUE,2011-11-30,-0.15827155247472238,FALSE,86,89.8,87.4,2,2,2,3,"But four years ago, I told the American people and I told you I would cut taxes for middle class families.",Pashto,Czech,Florida
+00414,33,Male,91,79,FALSE,2011-12-05,1.5151243203074372,TRUE,85.3,93.2,88.4,4,1,2,3,"Don't go away, though right.",Bhojpuri,Persian,California
+00415,22,Female,98,74,TRUE,2008-03-12,-0.2989093907496327,FALSE,87.9,83.4,91.2,1,5,3,5,But we also believe in maintaining for individuals the right to pursue their dreams and not to have the government substitute itself for the rights of free individuals.,Hmong,English,Texas
+00416,26,Female,98,70,TRUE,2007-08-27,-0.013670860779571444,FALSE,81.8,85.9,88.2,2,1,2,1,"But four years ago, I told the American people and I told you I would cut taxes for middle class families.",Min Bei,Kinyarwanda,Texas
+00417,29,Female,112,65,FALSE,2008-07-09,1.4570083158424996,FALSE,85.8,91.5,91.7,5,1,5,1,I have to say that Governor Romney criticized me for being too tough in that tire case; said this wouldn't be good for American workers and that it would be protectionist.,Quechua,Turkish,New York
+00418,34,Female,87,74,FALSE,2010-10-20,-0.34242713808733705,FALSE,91.6,94.6,90.5,1,5,3,5,Is America going to be strong?,Vietnamese,Burmese,Georgia
+00419,35,Male,92,74,TRUE,2008-04-23,-1.662002097766989,FALSE,75.8,80.9,86.3,5,2,1,4,"And, you know, I appreciate and it appears we've got some agreement that a marketplace to work has to have some regulation.",Spanish,Min Dong,New Jersey
+00420,25,Female,98,72,TRUE,2008-05-09,-0.4795242399177978,TRUE,90.4,83.5,89,2,3,4,1,"In fact, he doubled it.",Zulu,Ukrainian,Georgia
+00421,22,Male,101,73,FALSE,2009-06-06,1.24448047164313,FALSE,80.3,85.6,93.2,2,5,4,2,That's part of my health care plan.,Bhojpuri,Zulu,Arizona
+00422,29,Male,96,61,FALSE,2011-06-29,-0.030560475794142443,TRUE,90.3,90.4,84.5,5,3,4,2,Because I'm offsetting some of the reductions with holding down some of the deductions.,Spanish,Sindhi,California
+00423,27,Female,111,70,FALSE,2011-05-07,-3.111538855171588,FALSE,89.3,88.2,85.5,4,3,2,2,"And the fact that you're going to college is great, but I want everybody to get a great education and we've worked hard to make sure that student loans are available for folks like you, but I also want to make sure that community colleges are offering slots for workers to get retrained for the jobs that are out there right now and the jobs of the future.",Maithili,English,Louisiana
+00424,25,Male,90,73,FALSE,2009-04-04,-0.5641590639138568,TRUE,89.6,89.9,85.1,3,4,4,1,Let me just point out first of all this board that we're talking about can't make decisions about what treatments are given.,Swedish,Oromo,New York
+00425,25,Male,101,71,FALSE,2009-04-03,-2.247684930744211,TRUE,89.7,81.7,93.6,3,3,3,5,That's its most basic function.,Japanese,Hindi,New York
+00426,32,Male,103,69,FALSE,2010-05-17,1.5529965862536037,FALSE,84.8,82.5,82.5,3,3,2,4,But can you do this without driving deeper|,Arabic,Portuguese,Michigan
+00427,21,Male,90,71,TRUE,2012-01-10,-2.6021264185009416,FALSE,86,91.4,89.9,3,4,3,1,"Along with what he also wants to do in terms of eliminating the estate tax, along what he wants to do in terms of corporates, changes in the tax code, it costs about dollar five trillion.",Hindi,Russian,Indiana
+00428,21,Male,109,68,TRUE,2009-05-03,0.27099185376530077,FALSE,85.5,85.4,94.5,4,4,2,3,"And Governor Romney, our alliances have never been stronger, in Asia, in Europe, in Africa, with Israel, where we have unprecedented military and intelligence cooperation, including dealing with the Iranian threat.",Arabic,English,Washington
+00429,27,Male,125,74,FALSE,2010-08-16,-0.5187509333785614,TRUE,85.4,94,85.2,2,2,2,2,You've done a great job.,Xiang,Spanish,Illinois
+00430,32,Female,112,61,FALSE,2009-03-26,1.4440167727242685,FALSE,92.6,93.1,89.4,5,4,3,5,I've done it before.,Mossi,English,Florida
+00431,33,Female,110,62,FALSE,2009-10-02,2.3142621637410135,TRUE,93.5,86.9,83.7,2,4,2,1,that's a I indicated|,Kinyarwanda,Hindi,Rhode Island
+00432,26,Female,92,66,FALSE,2011-07-22,-0.49169165012595023,FALSE,88.2,85.8,87.2,3,4,1,2,"I said I would cut taxes for small businesses, who are the drivers and engines of growth.",Kinyarwanda,Uzbek,South Dakota
+00433,23,Male,113,69,TRUE,2010-04-02,-0.7679379502342621,TRUE,81.5,88.9,90.1,2,3,4,5,Our association and connection with our allies is essential to America's strength.,Uzbek,Japanese,California
+00434,35,Male,96,72,TRUE,2007-09-28,0.20731774843656442,FALSE,89.7,89.6,84.4,3,5,4,3,"And the idea that has been suggested that I would liquidate the industry, of course not.",Min Dong,Spanish,Nevada
+00435,20,Male,94,65,TRUE,2010-03-07,-0.6851187533250768,FALSE,85.6,86.1,85.9,2,2,5,1,I don't anticipate that in the future.,Xiang,Swedish,Georgia
+00436,35,Male,125,74,TRUE,2011-12-27,-1.1449911978196328,FALSE,90.8,83.7,85.3,1,1,4,5,We know that the path we're taking is not working.,Bengali,Bhojpuri,Wisconsin
+00437,24,Male,95,72,FALSE,2010-05-11,-0.5161247515432781,TRUE,92.4,77.8,84.5,1,1,4,5,"We've got to reduce our deficit, but we've got to do it in a balanced way.",Shona,Malayalam,Texas
+00438,21,Female,100,72,FALSE,2009-09-27,-0.06643309321229512,TRUE,84.3,83.5,85.9,1,1,5,4,"Governor Romney, I genuinely believe cares about education, but when he tells a student that, you know, you should borrow money from your parents to go to college, you know, that indicates the degree to which, you know, there may not be as much of a focus on the fact that folks like myself, folks like Michelle, kids probably who attend University of Denver, just don't have that option.",Javanese,Hiligaynon,Florida
+00439,28,Male,84,67,FALSE,2010-03-14,-1.4617694565152957,TRUE,90.2,84.2,90.3,1,3,3,4,"And with respect to our attitude about the Iranian revolution, I was very clear about the murderous activities that had taken place and that was contrary to international law and everything that civilized people stand for.",Sylheti,Min Bei,Pennsylvania
+00440,31,Male,98,69,TRUE,2009-09-05,-0.5621437396504112,TRUE,85.6,90.6,85,2,2,3,3,"And when we do things like that when we bring those who have harmed us to justice, that sends a message to the world and it tells Peyton that we did not forget her father.",Hindi,Min Bei,Florida
+00441,25,Female,103,69,FALSE,2010-04-25,1.8160254120290575,TRUE,81.8,84.7,86.5,4,2,2,3,quickly to this please.,Sylheti,Arabic,Utah
+00442,24,Female,107,68,TRUE,2010-01-09,-0.1382326437946687,TRUE,89.9,83.5,84.9,5,5,5,3,We all understand what this country has become because talent from all around the world wants to come here.,Kinyarwanda,Thai,Texas
+00443,35,Male,102,75,FALSE,2012-04-05,0.1768195914334478,FALSE,88.9,88.5,89.4,4,5,5,4,That's part of my health care plan.,Ilokano,Thai,Iowa
+00444,34,Female,107,67,TRUE,2009-03-25,0.6125414550982982,TRUE,88.6,90.4,91.7,4,3,1,1,"Yeah, in the Reagan recession where unemployment hit ten.",Spanish,Spanish,Virginia
+00445,35,Male,93,76,FALSE,2008-11-09,2.1994535639377863,TRUE,94.1,87.1,79.1,5,4,3,4,"Thanks, Governor.",Pashto,English,Indiana
+00446,35,Male,97,74,FALSE,2008-12-31,0.27946185756719616,FALSE,92.6,92.3,83.4,2,3,1,1,"Well well, I need to speak a moment|",Hindi,Yoruba,Arizona
+00447,31,Female,98,72,FALSE,2011-07-14,-0.4510519526096328,TRUE,87.1,82.4,88.1,5,3,1,2,of you on Medicare?,Kannada,Burmese,Arizona
+00448,34,Female,105,67,FALSE,2008-02-29,0.6204759495015514,TRUE,90.3,81.7,86,5,1,4,3,S.,Bengali,English,New Jersey
+00449,25,Female,103,69,TRUE,2012-06-30,0.5990246503443624,TRUE,89.5,79.9,92.4,2,3,2,1,"But you make a very good point, which is that the place you put your money just makes a pretty clear indication of where your heart is.",Akan,French,Washington
+00450,23,Male,112,65,TRUE,2009-06-02,-1.0853513350517219,TRUE,95.1,95.4,85.2,3,2,2,2,"Number two, seeing a a replacement government being responsible people is critical for us.",Mossi,English,Rhode Island
+00451,33,Female,91,69,FALSE,2011-03-08,-0.8312895315438139,TRUE,92.3,84,94.7,1,2,5,4,Candy?,Urdu,Punjabi,Kentucky
+00452,33,Female,87,69,FALSE,2012-09-17,0.05648465706399847,TRUE,85.6,89.4,81.1,1,3,1,2,We want we want to make sure that we're seeing progress throughout the Middle East.,Min Bei,Swedish,Tennessee
+00453,28,Female,95,66,TRUE,2011-04-17,0.8287956097636509,TRUE,82,84.8,86.6,5,1,1,3,Instead let people make their own choice.,Min Bei,Korean,California
+00454,28,Male,101,67,TRUE,2012-07-28,0.981978524709325,TRUE,86,91.2,86.6,5,3,4,4,Lorraine.,Spanish,French,New York
+00455,25,Female,90,69,TRUE,2010-03-10,1.3184315457797413,FALSE,90.1,91.1,93,1,4,3,5,"Governor Romney, pay equity for women?",Bengali,Portuguese,Washington
+00456,35,Female,82,70,FALSE,2009-05-08,-1.1270780388673618,FALSE,80.4,94,86.1,5,5,4,4,"Well, four years ago, when I was running for office, I was traveling around and having those same conversations that Governor Romney talks about.",Portuguese,Ukrainian,California
+00457,29,Female,115,68,TRUE,2008-11-18,0.3688322796652393,FALSE,89.4,94.5,89.9,1,1,5,1,They need to be tightened.,Russian,Turkish,California
+00458,29,Female,102,69,FALSE,2008-07-28,0.3927170834400321,FALSE,93.9,86.6,86.9,4,2,3,2,"I know what it takes to get this country back, and will work with good Democrats and good Republicans to do that.",English,Malay/Indonesian,Michigan
+00459,26,Female,100,72,FALSE,2012-06-22,2.1540803090996117,FALSE,84.8,82.1,91,5,2,5,3,Let's let the governor explain what you would do|,Bengali,Hmong,Pennsylvania
+00460,31,Male,97,68,TRUE,2010-03-21,1.3136300292786265,TRUE,87.4,83.8,87.6,2,2,4,1,America must lead.,Spanish,Hindi,California
+00461,29,Female,100,72,TRUE,2009-03-04,1.5951021404640162,FALSE,84.5,87.9,87.8,3,3,2,5,"When they said, We're going to cut Planned Parenthood funding.",English,Spanish,New York
+00462,20,Male,88,71,FALSE,2012-06-26,-1.0525064844525398,TRUE,78.1,88.7,88.1,3,2,2,1,And we are making sure that those we help are those who will be friends of ours in the long term and friends of our allies in the region over the long term.,Min Bei,Min Dong,California
+00463,25,Female,108,61,FALSE,2010-06-07,0.14178637959758228,FALSE,92.3,83,86.9,3,5,2,1,"He said, I'll get back to you.",Kirundi,Ilokano,Maryland
+00464,33,Female,91,70,TRUE,2011-09-19,2.592502296999547,FALSE,95.1,89.2,87.2,1,3,4,3,Just going to make a point.,Mossi,Haitian Creole,Georgia
+00465,24,Male,112,64,FALSE,2007-09-16,0.37057586617427424,FALSE,88.5,94.9,91.7,3,4,2,5,"However, I do attribute much of America's economic and international problems to the failings and missteps of the Bush administration.",Zulu,Thai,Ohio
+00466,24,Male,108,69,FALSE,2012-09-20,1.8230532531391224,TRUE,88.5,91.3,87,5,4,4,1,You want a bigger Navy.,Zulu,English,Delaware
+00467,22,Female,95,66,TRUE,2011-10-29,0.06911144854414687,FALSE,83.5,93.2,86.9,2,2,1,1,"But in order to be able to fulfill our role in the world, America must be strong.",Greek,Ilokano,Ohio
+00468,28,Male,116,66,FALSE,2007-07-18,-0.041953144506551555,FALSE,90.8,86.4,84,1,3,3,2,Lorraine?,Gujarati,Burmese,Georgia
+00469,22,Male,108,68,TRUE,2012-09-06,1.1836846220539912,FALSE,82.9,93.5,89.7,5,1,1,5,China has been a currency manipulator for years and years and years.,Wu,Arabic,Oklahoma
+00470,34,Male,105,69,TRUE,2010-09-04,0.8030863748715588,FALSE,94,81.1,79,4,3,1,4,"I also think that we should give visas to people green cards, rather, to people who graduate with skills that we need.",Arabic,Bengali,Minnesota
+00471,25,Female,97,76,FALSE,2011-09-22,0.36750981276276395,TRUE,89.5,85.1,90.8,4,3,3,4,"And I will not cut our military budget by a trillion dollars, which is a combination of the budget cuts the president has, as well as the sequestration cuts.",Czech,Bengali,Virginia
+00472,34,Male,114,59,TRUE,2009-04-29,-0.5730192300150075,FALSE,80.2,93,89.1,3,5,3,2,All right.,Spanish,Balochi,Massachusetts
+00473,22,Male,88,69,TRUE,2011-10-23,-0.40845828913851195,FALSE,87.3,89,85.4,2,2,3,1,"A group of Arab scholars came together, organized by the U.",Uyghur,Oromo,Arkansas
+00474,20,Male,111,73,TRUE,2011-11-04,0.6229961823515714,TRUE,92.4,90.5,86.9,3,3,2,2,"When he came home and he wanted to become a nurse, he had to start from scratch.",Ukrainian,Hindi,Kansas
+00475,21,Female,85,74,FALSE,2012-03-27,-1.0397380243321919,TRUE,86.4,87.5,89.8,4,3,3,3,We need to get rid of that provision because it's killing regional and small banks.,Malagasy,Dhundhari,Tennessee
+00476,25,Female,101,67,FALSE,2008-12-22,1.0205589250347877,FALSE,94.5,88.8,92.4,4,2,1,5,I'm still speaking.,Xhosa,Telugu,California
+00477,25,Male,98,66,TRUE,2012-09-13,-2.544621676069198,TRUE,88.3,91.6,89.2,2,5,2,3,"And the key to great schools, great teachers.",Japanese,Swedish,Pennsylvania
+00478,30,Male,100,74,FALSE,2010-12-18,2.1415192443151096,FALSE,90,93.5,90.3,5,4,4,4,And three quarters of them said it makes us less likely to hire people.,Pashto,Punjabi,California
+00479,23,Male,106,70,FALSE,2009-07-03,1.379336047485673,FALSE,85.8,87.6,87.2,4,4,1,3,"Now, it's dollar four.",Italian,Hindi,Alaska
+00480,28,Female,112,74,TRUE,2010-09-01,0.08138124093643856,TRUE,82.6,90.4,86.4,2,2,3,1,And Governor Romney's says he's got a five point plan?,Hindi,Chittagonian,New York
+00481,21,Male,95,70,TRUE,2008-09-01,1.1475861402052887,TRUE,84.5,90.6,92.6,1,1,5,4,The place where we've seen manufacturing go has been China.,Oriya,Hindi,Florida
+00482,21,Female,98,66,FALSE,2011-02-22,2.4638364929383503,FALSE,90.8,87.4,82.7,3,2,4,3,And so what we did was take away those leases.,Ukrainian,Japanese,Nevada
+00483,33,Female,117,73,FALSE,2010-02-16,-1.2296514510837382,TRUE,87.2,88.6,90.5,1,4,3,2,And three quarters of them said it makes us less likely to hire people.,Swedish,Zulu,California
+00484,34,Female,99,70,FALSE,2007-08-17,1.3503295505154342,FALSE,79.2,90.3,88.9,4,3,5,3,"We like free enterprise, but you got to play by the rules.",Czech,Wu,Texas
+00485,34,Female,89,68,TRUE,2007-09-05,0.04954276712352049,FALSE,93.6,89.4,86.8,2,1,2,3,And President Bush has a very different path for a very different time.,Mossi,Javanese,Massachusetts
+00486,20,Female,104,65,FALSE,2011-05-12,0.24658853037453052,FALSE,92,90.6,95.7,5,2,5,1,We've brought twice as many cases against unfair trading practices than the previous administration and we've won every single one that's been decided.,Haitian Creole,Shona,Pennsylvania
+00487,35,Male,111,69,FALSE,2012-01-15,-1.9338565198726565,FALSE,89,89.8,99,1,1,2,1,"Candy, there's no doubt that world demand's gone up, but our production is going up, and we're using oil more efficiently.",Bengali,Gujarati,California
+00488,33,Male,97,67,TRUE,2011-03-06,1.2766113121988194,FALSE,91.7,90.7,88.3,5,1,2,2,"That's exactly what our budget does, but it's driven by strategy.",Telugu,Arabic,California
+00489,26,Female,92,72,TRUE,2008-06-01,0.8363369514139251,TRUE,87,92.8,86.9,1,1,2,3,That was something I concurred with|,Vietnamese,Zulu,Oregon
+00490,24,Male,81,73,FALSE,2008-12-28,1.8336495470270713,TRUE,90,85.8,88.1,4,5,4,2,that your posture.,Dhundhari,Czech,South Carolina
+00491,26,Female,95,75,TRUE,2011-05-15,-1.1743153996722036,TRUE,86.1,91.4,89.1,4,2,3,3,You don't turn national security into a political issue.,Hausa,Russian,New York
+00492,24,Female,95,70,FALSE,2010-07-06,-2.379688256949988,FALSE,87.8,88.1,86,3,2,4,2,There's a fundamentally different vision about how we move our country forward.,English,Azerbaijani,California
+00493,30,Male,96,64,FALSE,2008-12-14,-0.8156129753823405,FALSE,87.3,81.2,94.4,5,4,2,5,"Now, Governor Romney was a very successful investor.",Arabic,Vietnamese,Maryland
+00494,29,Male,88,68,FALSE,2011-09-27,-1.141375396438618,TRUE,89.6,83.3,92.4,4,3,1,4,We're not going to allow Iran to perpetually engage in negotiations that lead nowhere.,Burmese,Korean,Washington
+00495,34,Female,98,69,TRUE,2011-07-15,-0.09928541995662785,TRUE,88.2,85.3,93.4,5,4,5,1,"Let's talk about military spending, and that's this.",Hmong,Khmer,Missouri
+00496,25,Female,105,65,TRUE,2012-09-01,-0.06442946212129916,TRUE,85.1,85.5,87.9,3,4,3,4,"General Allen, our commander in Afghanistan, says that Americans continue to die at the hands of groups who are supported by Pakistan.",Bhojpuri,German,Kentucky
+00497,20,Male,106,70,TRUE,2012-05-17,-0.015849976167389198,FALSE,83.1,88.1,83.8,2,3,2,2,"But not just jobs, good paying jobs.",Hiligaynon,Spanish,Virginia
+00498,22,Male,116,68,TRUE,2010-02-17,0.7137677648951781,FALSE,95,95.5,92.5,4,3,2,4,"You have the ISI, their intelligence organization, is probably the most powerful of the of three branches there.",Portuguese,Japanese,New Jersey
+00499,21,Female,99,67,TRUE,2010-06-17,0.7036972208772726,FALSE,89,83.2,94.9,5,4,2,1,"I will make sure we don't hurt the functioning of our of our marketplace and our business, because I want to bring back housing and get good jobs.",Min Bei,Japanese,Florida
+00500,27,Female,90,69,FALSE,2011-07-22,-0.6845043873243618,FALSE,89.5,86.9,84.1,1,2,2,1,"Over the long term, in order for us to compete with China, we've also got to make sure, though, that we're taking taking care of business here at home.",Spanish,Zhuang,Tennessee

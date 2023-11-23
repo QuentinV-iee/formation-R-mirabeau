@@ -1,0 +1,27 @@
+{
+    "id": "4FEC5973",
+    "path": "~/formation R/projet01/projet01/R/jours_2_2.R",
+    "project_path": "R/jours_2_2.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1699624664061.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "30,26",
+        "scrollLine": "21"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1699625545,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1699625700728,
+    "read_only": false,
+    "read_only_alternatives": []
+}
